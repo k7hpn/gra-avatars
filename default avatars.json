@@ -788,7 +788,72 @@
         "Name": "clownMop",
         "SortOrder": "44",
         "Unlockable": "False"
-      }
+      },
+	  {
+        "Name": "AsymmetricStraight",
+        "SortOrder": "45",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "BoxBraids",
+        "SortOrder": "46",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "CornrowBraid",
+        "SortOrder": "47",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "CurlyFro",
+        "SortOrder": "48",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "CurlySpaceBuns",
+        "SortOrder": "49",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "FauxHawk",
+        "SortOrder": "50",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "HeadScarf",
+        "SortOrder": "51",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "HighFade",
+        "SortOrder": "52",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "HimeCut",
+        "SortOrder": "53",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "NaturalCurls",
+        "SortOrder": "54",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "NaturalCurlsLong",
+        "SortOrder": "55",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "Princess",
+        "SortOrder": "56",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "RelaxedDreads",
+        "SortOrder": "57",
+        "Unlockable": "False"
+      },
     ]
   },
   {
