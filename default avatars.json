@@ -789,71 +789,71 @@
         "SortOrder": "44",
         "Unlockable": "False"
       },
-	  {
+      {
         "Name": "AsymmetricStraight",
         "SortOrder": "45",
         "Unlockable": "False"
       },
-	  {
+      {
         "Name": "BoxBraids",
         "SortOrder": "46",
         "Unlockable": "False"
       },
-	  {
+      {
         "Name": "CornrowBraid",
         "SortOrder": "47",
         "Unlockable": "False"
       },
-	  {
+      {
         "Name": "CurlyFro",
         "SortOrder": "48",
         "Unlockable": "False"
       },
-	  {
+      {
         "Name": "CurlySpaceBuns",
         "SortOrder": "49",
         "Unlockable": "False"
       },
-	  {
+      {
         "Name": "FauxHawk",
         "SortOrder": "50",
         "Unlockable": "False"
       },
-	  {
+      {
         "Name": "HeadScarf",
         "SortOrder": "51",
         "Unlockable": "False"
       },
-	  {
+      {
         "Name": "HighFade",
         "SortOrder": "52",
         "Unlockable": "False"
       },
-	  {
+      {
         "Name": "HimeCut",
         "SortOrder": "53",
         "Unlockable": "False"
       },
-	  {
+      {
         "Name": "NaturalCurls",
         "SortOrder": "54",
         "Unlockable": "False"
       },
-	  {
+      {
         "Name": "NaturalCurlsLong",
         "SortOrder": "55",
         "Unlockable": "False"
       },
-	  {
+      {
         "Name": "Princess",
         "SortOrder": "56",
         "Unlockable": "False"
       },
-	  {
+      {
         "Name": "RelaxedDreads",
         "SortOrder": "57",
         "Unlockable": "False"
-      },
+      }
     ]
   },
   {
@@ -1175,1852 +1175,1902 @@
     "AvatarItems": [
       {
         "Name": "hijabA-Accent_merged_0000_7",
-        "SortOrder": "295",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "hijabA-Accent_merged_0001_6",
-        "SortOrder": "296",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "hijabA-Accent_merged_0002_5",
-        "SortOrder": "297",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "hijabA-Accent_merged_0003_4",
-        "SortOrder": "298",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "hijabA-Accent_merged_0004_3",
-        "SortOrder": "299",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "hijabA-Accent_merged_0005_2",
-        "SortOrder": "300",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "hijabA-Accent_merged_0006_1",
-        "SortOrder": "301",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "hijabA_0000_7",
-        "SortOrder": "302",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "hijabA_0001_6",
-        "SortOrder": "303",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "hijabA_0002_5",
-        "SortOrder": "304",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "hijabA_0003_4",
         "SortOrder": "305",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabA_0004_3",
+        "Name": "hijabA-Accent_merged_0001_6",
         "SortOrder": "306",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabA_0005_2",
+        "Name": "hijabA-Accent_merged_0002_5",
         "SortOrder": "307",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabA_0006_1",
+        "Name": "hijabA-Accent_merged_0003_4",
         "SortOrder": "308",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabB-Accent_merged_0000_7",
+        "Name": "hijabA-Accent_merged_0004_3",
         "SortOrder": "309",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabB-Accent_merged_0001_6",
+        "Name": "hijabA-Accent_merged_0005_2",
         "SortOrder": "310",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabB-Accent_merged_0002_5",
+        "Name": "hijabA-Accent_merged_0006_1",
         "SortOrder": "311",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabB-Accent_merged_0003_4",
+        "Name": "hijabA_0000_7",
         "SortOrder": "312",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabB-Accent_merged_0004_3",
+        "Name": "hijabA_0001_6",
         "SortOrder": "313",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabB-Accent_merged_0005_2",
+        "Name": "hijabA_0002_5",
         "SortOrder": "314",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabB-Accent_merged_0006_1",
+        "Name": "hijabA_0003_4",
         "SortOrder": "315",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabB_0000_7",
+        "Name": "hijabA_0004_3",
         "SortOrder": "316",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabB_0001_6",
+        "Name": "hijabA_0005_2",
         "SortOrder": "317",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabB_0002_5",
+        "Name": "hijabA_0006_1",
         "SortOrder": "318",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabB_0003_4",
+        "Name": "hijabB-Accent_merged_0000_7",
         "SortOrder": "319",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabB_0004_3",
+        "Name": "hijabB-Accent_merged_0001_6",
         "SortOrder": "320",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabB_0005_2",
+        "Name": "hijabB-Accent_merged_0002_5",
         "SortOrder": "321",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabB_0006_1",
+        "Name": "hijabB-Accent_merged_0003_4",
         "SortOrder": "322",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabC-Accent_merged_0000_7",
+        "Name": "hijabB-Accent_merged_0004_3",
         "SortOrder": "323",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabC-Accent_merged_0001_6",
+        "Name": "hijabB-Accent_merged_0005_2",
         "SortOrder": "324",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabC-Accent_merged_0002_5",
+        "Name": "hijabB-Accent_merged_0006_1",
         "SortOrder": "325",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabC-Accent_merged_0003_4",
+        "Name": "hijabB_0000_7",
         "SortOrder": "326",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabC-Accent_merged_0004_3",
+        "Name": "hijabB_0001_6",
         "SortOrder": "327",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabC-Accent_merged_0005_2",
+        "Name": "hijabB_0002_5",
         "SortOrder": "328",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabC-Accent_merged_0006_1",
+        "Name": "hijabB_0003_4",
         "SortOrder": "329",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabC_0000_7",
+        "Name": "hijabB_0004_3",
         "SortOrder": "330",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabC_0001_6",
+        "Name": "hijabB_0005_2",
         "SortOrder": "331",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabC_0002_5",
+        "Name": "hijabB_0006_1",
         "SortOrder": "332",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabC_0003_4",
+        "Name": "hijabC-Accent_merged_0000_7",
         "SortOrder": "333",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabC_0004_3",
+        "Name": "hijabC-Accent_merged_0001_6",
         "SortOrder": "334",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabC_0005_2",
+        "Name": "hijabC-Accent_merged_0002_5",
         "SortOrder": "335",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabC_0006_1",
+        "Name": "hijabC-Accent_merged_0003_4",
         "SortOrder": "336",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabD-Accent_merged_0000_7",
+        "Name": "hijabC-Accent_merged_0004_3",
         "SortOrder": "337",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabD-Accent_merged_0001_6",
+        "Name": "hijabC-Accent_merged_0005_2",
         "SortOrder": "338",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabD-Accent_merged_0002_5",
+        "Name": "hijabC-Accent_merged_0006_1",
         "SortOrder": "339",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabD-Accent_merged_0003_4",
+        "Name": "hijabC_0000_7",
         "SortOrder": "340",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabD-Accent_merged_0004_3",
+        "Name": "hijabC_0001_6",
         "SortOrder": "341",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabD-Accent_merged_0005_2",
+        "Name": "hijabC_0002_5",
         "SortOrder": "342",
         "Unlockable": "False"
       },
       {
-        "Name": "hijabD-Accent_merged_0006_1",
+        "Name": "hijabC_0003_4",
         "SortOrder": "343",
         "Unlockable": "False"
       },
       {
-        "Name": "JilbabA-Accent_merged_0000_7",
+        "Name": "hijabC_0004_3",
         "SortOrder": "344",
         "Unlockable": "False"
       },
       {
-        "Name": "JilbabA-Accent_merged_0001_6",
+        "Name": "hijabC_0005_2",
         "SortOrder": "345",
         "Unlockable": "False"
       },
       {
-        "Name": "JilbabA-Accent_merged_0002_5",
+        "Name": "hijabC_0006_1",
         "SortOrder": "346",
         "Unlockable": "False"
       },
       {
-        "Name": "JilbabA-Accent_merged_0003_4",
+        "Name": "hijabD-Accent_merged_0000_7",
         "SortOrder": "347",
         "Unlockable": "False"
       },
       {
-        "Name": "JilbabA-Accent_merged_0004_3",
+        "Name": "hijabD-Accent_merged_0001_6",
         "SortOrder": "348",
         "Unlockable": "False"
       },
       {
-        "Name": "JilbabA-Accent_merged_0005_2",
+        "Name": "hijabD-Accent_merged_0002_5",
         "SortOrder": "349",
         "Unlockable": "False"
       },
       {
-        "Name": "JilbabA-Accent_merged_0006_1",
+        "Name": "hijabD-Accent_merged_0003_4",
         "SortOrder": "350",
         "Unlockable": "False"
       },
       {
-        "Name": "JilbabA_0000_7",
+        "Name": "hijabD-Accent_merged_0004_3",
         "SortOrder": "351",
         "Unlockable": "False"
       },
       {
-        "Name": "JilbabA_0001_6",
+        "Name": "hijabD-Accent_merged_0005_2",
         "SortOrder": "352",
         "Unlockable": "False"
       },
       {
-        "Name": "JilbabA_0002_5",
+        "Name": "hijabD-Accent_merged_0006_1",
         "SortOrder": "353",
         "Unlockable": "False"
       },
       {
-        "Name": "JilbabA_0003_4",
+        "Name": "JilbabA-Accent_merged_0000_7",
         "SortOrder": "354",
         "Unlockable": "False"
       },
       {
-        "Name": "JilbabA_0004_3",
+        "Name": "JilbabA-Accent_merged_0001_6",
         "SortOrder": "355",
         "Unlockable": "False"
       },
       {
-        "Name": "JilbabA_0005_2",
+        "Name": "JilbabA-Accent_merged_0002_5",
         "SortOrder": "356",
         "Unlockable": "False"
       },
       {
-        "Name": "JilbabA_0006_1",
+        "Name": "JilbabA-Accent_merged_0003_4",
         "SortOrder": "357",
         "Unlockable": "False"
       },
       {
-        "Name": "YarmulkeA_0000_6",
+        "Name": "JilbabA-Accent_merged_0004_3",
         "SortOrder": "358",
         "Unlockable": "False"
       },
       {
-        "Name": "YarmulkeA_0001_5",
+        "Name": "JilbabA-Accent_merged_0005_2",
         "SortOrder": "359",
         "Unlockable": "False"
       },
       {
-        "Name": "YarmulkeA_0002_4",
+        "Name": "JilbabA-Accent_merged_0006_1",
         "SortOrder": "360",
         "Unlockable": "False"
       },
       {
-        "Name": "YarmulkeA_0003_3",
+        "Name": "JilbabA_0000_7",
         "SortOrder": "361",
         "Unlockable": "False"
       },
       {
-        "Name": "YarmulkeA_0004_2",
+        "Name": "JilbabA_0001_6",
         "SortOrder": "362",
         "Unlockable": "False"
       },
       {
-        "Name": "YarmulkeA_0005_1",
+        "Name": "JilbabA_0002_5",
         "SortOrder": "363",
         "Unlockable": "False"
       },
       {
-        "Name": "YarmulkeB_0000_6",
+        "Name": "JilbabA_0003_4",
         "SortOrder": "364",
         "Unlockable": "False"
       },
       {
-        "Name": "YarmulkeB_0001_5",
+        "Name": "JilbabA_0004_3",
         "SortOrder": "365",
         "Unlockable": "False"
       },
       {
-        "Name": "YarmulkeB_0002_4",
+        "Name": "JilbabA_0005_2",
         "SortOrder": "366",
         "Unlockable": "False"
       },
       {
-        "Name": "YarmulkeB_0003_3",
+        "Name": "JilbabA_0006_1",
         "SortOrder": "367",
         "Unlockable": "False"
       },
       {
-        "Name": "YarmulkeB_0004_2",
+        "Name": "YarmulkeA_0000_6",
         "SortOrder": "368",
         "Unlockable": "False"
       },
       {
-        "Name": "YarmulkeB_0005_1",
+        "Name": "YarmulkeA_0001_5",
         "SortOrder": "369",
         "Unlockable": "False"
       },
       {
+        "Name": "YarmulkeA_0002_4",
+        "SortOrder": "370",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "YarmulkeA_0003_3",
+        "SortOrder": "371",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "YarmulkeA_0004_2",
+        "SortOrder": "372",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "YarmulkeA_0005_1",
+        "SortOrder": "373",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "YarmulkeB_0000_6",
+        "SortOrder": "374",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "YarmulkeB_0001_5",
+        "SortOrder": "375",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "YarmulkeB_0002_4",
+        "SortOrder": "376",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "YarmulkeB_0003_3",
+        "SortOrder": "377",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "YarmulkeB_0004_2",
+        "SortOrder": "378",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "YarmulkeB_0005_1",
+        "SortOrder": "379",
+        "Unlockable": "False"
+      },
+      {
         "Name": "(113) bear",
-        "SortOrder": "17",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1076) brazil_carnival_hat",
-        "SortOrder": "193",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1077) top_hat",
-        "SortOrder": "194",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1078) cleopatra_headdress_royal",
-        "SortOrder": "195",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1079) cleopatra_headdress_royal",
-        "SortOrder": "196",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1080) cleopatra_headdress_royal",
-        "SortOrder": "197",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1083) pharaoh_headdress",
-        "SortOrder": "198",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1085) pharaoh_headdress",
-        "SortOrder": "199",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1086) pharaoh_headdress",
-        "SortOrder": "200",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1087) Cthulhu_mask",
-        "SortOrder": "201",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1088) Cthulhu_mask",
-        "SortOrder": "202",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1089) Cthulhu_mask",
-        "SortOrder": "203",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1090) brazil_carnival_hat",
-        "SortOrder": "204",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1092) brazil_carnival_hat",
-        "SortOrder": "205",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1097) Cthulhu_mask",
-        "SortOrder": "206",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1075) brazil_carnival_hat",
-        "SortOrder": "192",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1098) top_hat",
-        "SortOrder": "207",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1101) pharaoh_headdress",
-        "SortOrder": "209",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1113) Garden_gnome_hat",
-        "SortOrder": "210",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1114) pumpkin_mask",
-        "SortOrder": "211",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1115) pumpkin_mask",
-        "SortOrder": "212",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1116) pumpkin_mask",
-        "SortOrder": "213",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1117) tiara",
-        "SortOrder": "214",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1118) Garden_gnome_hat",
-        "SortOrder": "215",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1119) Garden_gnome_hat",
-        "SortOrder": "216",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1120) Guy_Fawkes_hat",
-        "SortOrder": "217",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1121) Guy_Fawkes_hat",
-        "SortOrder": "218",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1122) pot_mask",
-        "SortOrder": "219",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1123) zille_mask",
-        "SortOrder": "220",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1124) alph_mask",
-        "SortOrder": "221",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1125) friendly_mask",
-        "SortOrder": "222",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1099) top_hat",
-        "SortOrder": "208",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1074) brazil_carnival_hat",
-        "SortOrder": "191",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1069) cleopatra_headdress_casual",
-        "SortOrder": "190",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1068) cleopatra_headdress_casual",
-        "SortOrder": "189",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(888) gorilla_mask",
-        "SortOrder": "158",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(890) sherwani_hat",
-        "SortOrder": "159",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(912) flat_cap",
-        "SortOrder": "160",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(922) sherwani_hat",
-        "SortOrder": "161",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(923) sherwani_hat",
-        "SortOrder": "162",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(930) flat_cap",
-        "SortOrder": "163",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(960) body_suit_mask",
-        "SortOrder": "164",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(963) flat_cap",
-        "SortOrder": "165",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(965) mask_and_snorkel",
-        "SortOrder": "166",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(974) mask_and_snorkel",
-        "SortOrder": "167",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(977) bavarian_hat",
-        "SortOrder": "168",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1003) elven_boy_hat",
-        "SortOrder": "169",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1004) elven_boy_hat",
-        "SortOrder": "170",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1009) gas_mask",
-        "SortOrder": "171",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1010) zombie_boy_mask",
-        "SortOrder": "172",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1022) zombie_boy_mask",
-        "SortOrder": "173",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1023) zombie_boy_mask",
-        "SortOrder": "174",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1066) cleopatra_headdress_casual",
-        "SortOrder": "188",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1065) top_hat",
-        "SortOrder": "187",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1064) top_hat",
-        "SortOrder": "186",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1063) top_hat",
-        "SortOrder": "185",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1062) top_hat",
-        "SortOrder": "184",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1040) elven_boy_hat",
-        "SortOrder": "183",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1126) Lem_mask",
-        "SortOrder": "223",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1039) cat_ear",
-        "SortOrder": "182",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1037) zombie_girl_mask",
-        "SortOrder": "180",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1036) zombie_girl_mask",
-        "SortOrder": "179",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1035) zombie_girl_mask",
-        "SortOrder": "178",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1030) ninja_hat",
-        "SortOrder": "177",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1025) ninja_hat",
-        "SortOrder": "176",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1024) ninja_hat",
-        "SortOrder": "175",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1038) zombie_girl_mask",
-        "SortOrder": "181",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1127) humbaba_mask",
-        "SortOrder": "224",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1128) grendaline_mask",
-        "SortOrder": "225",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1129) mab_mask",
-        "SortOrder": "226",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1337) tiara",
-        "SortOrder": "262",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1350) tower",
-        "SortOrder": "263",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1379) cap",
-        "SortOrder": "264",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1387) elven_boy_hat",
-        "SortOrder": "265",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1394) fez_hat",
-        "SortOrder": "266",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1406) tower",
-        "SortOrder": "267",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1407) beanies_guy_hat",
-        "SortOrder": "268",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1417) GlitchamaphoneButterflyMask",
-        "SortOrder": "269",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1418) GlitchamaphonePigMask",
-        "SortOrder": "270",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1419) GlitchamaphoneFoxMask",
-        "SortOrder": "271",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1420) GlitchamaphoneSlothMask",
-        "SortOrder": "272",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1421) GlitchamaphoneChickenMask",
-        "SortOrder": "273",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1440) dead_mask_asia",
-        "SortOrder": "274",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1441) pharaoh_headdress",
-        "SortOrder": "275",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1446) Guy_Fawkes_hat",
-        "SortOrder": "276",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1464) top_hat",
-        "SortOrder": "277",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1477) beanies_guy_hat",
-        "SortOrder": "278",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1551) caterpillar_mask_01",
-        "SortOrder": "292",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1532) steampunk_hat",
-        "SortOrder": "291",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1531) party_hat",
-        "SortOrder": "290",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1530) party_hat",
-        "SortOrder": "289",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1529) party_hat",
-        "SortOrder": "288",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1528) party_hat",
-        "SortOrder": "287",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1336) top_hat",
-        "SortOrder": "261",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1527) Garden_gnome_hat",
-        "SortOrder": "286",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1517) cowboy_male_hat",
-        "SortOrder": "284",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1502) deadmau5_hat",
-        "SortOrder": "283",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1501) tower",
-        "SortOrder": "282",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1500) bear",
-        "SortOrder": "281",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1497) sherwani_hat",
-        "SortOrder": "280",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1490) hockey",
-        "SortOrder": "279",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1524) womens_pirate_hat",
-        "SortOrder": "285",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(887) gorilla_mask",
-        "SortOrder": "157",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1331) bowler_hat",
-        "SortOrder": "260",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1311) elven_boy_hat",
-        "SortOrder": "258",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1130) rook_mask",
-        "SortOrder": "227",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1131) tii_mask",
-        "SortOrder": "228",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1132) spriggan_mask",
-        "SortOrder": "229",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1133) womens_pirate_hat",
-        "SortOrder": "230",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1134) womens_pirate_hat",
-        "SortOrder": "231",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1135) womens_pirate_hat",
-        "SortOrder": "232",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1136) mens_pirate_hat",
-        "SortOrder": "233",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1137) mens_pirate_hat",
-        "SortOrder": "234",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1157) crystals_test",
-        "SortOrder": "235",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1162) womens_pirate_hat",
-        "SortOrder": "236",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1163) womens_pirate_hat",
-        "SortOrder": "237",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1164) womens_pirate_hat",
-        "SortOrder": "238",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1165) womens_pirate_hat",
-        "SortOrder": "239",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1169) tiara",
-        "SortOrder": "240",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1170) tiara",
-        "SortOrder": "241",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1176) heart_helmet",
-        "SortOrder": "242",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1181) purpleflower_mask",
-        "SortOrder": "243",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1310) elven_boy_hat",
-        "SortOrder": "257",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1309) elven_boy_hat",
-        "SortOrder": "256",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1295) elven_boy_hat",
-        "SortOrder": "255",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1241) steampunk_hat",
-        "SortOrder": "254",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1240) steampunk_hat",
-        "SortOrder": "253",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1239) steampunk_hat",
-        "SortOrder": "252",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1325) top_hat",
-        "SortOrder": "259",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1235) flapper_headband",
-        "SortOrder": "251",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1233) flapper_headband",
-        "SortOrder": "249",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1232) flapper_headband",
-        "SortOrder": "248",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1230) flapper_headband",
-        "SortOrder": "247",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1195) cat_ear",
-        "SortOrder": "246",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1193) heart_helmet",
-        "SortOrder": "245",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1192) heart_helmet",
-        "SortOrder": "244",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1234) flapper_headband",
-        "SortOrder": "250",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(886) gorilla_mask",
-        "SortOrder": "156",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(885) gorilla_mask",
-        "SortOrder": "155",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(881) hockey",
-        "SortOrder": "154",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(299) cowboy_female_hat",
-        "SortOrder": "53",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(300) miner_hat",
-        "SortOrder": "54",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(301) ancient_butterfly_mask",
-        "SortOrder": "55",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(383) dead_mask_asia",
-        "SortOrder": "56",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(389) venetian_mask_lady",
-        "SortOrder": "57",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(394) cardboard_robot_hat",
-        "SortOrder": "58",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(401) venetian_mask_beak",
-        "SortOrder": "59",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(402) venetian_mask_chinny",
-        "SortOrder": "60",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(403) venetian_mask_phantom",
-        "SortOrder": "61",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(418) tower",
-        "SortOrder": "62",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(419) nineteen_century",
-        "SortOrder": "63",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(457) revolution_military_hat",
-        "SortOrder": "64",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(471) chicken_hat",
-        "SortOrder": "65",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(512) chicken_hat",
-        "SortOrder": "66",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(531) beefeater_hat",
-        "SortOrder": "67",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(536) fez_hat",
-        "SortOrder": "68",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(539) bowler_hat",
-        "SortOrder": "69",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(638) aviator_hat",
-        "SortOrder": "83",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(616) FoxHat_Tester",
-        "SortOrder": "82",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(612) rook_headpiece",
-        "SortOrder": "81",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(595) cowboy_male_hat",
-        "SortOrder": "80",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(583) bowler_hat",
-        "SortOrder": "79",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(582) dotd_mask",
-        "SortOrder": "78",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(298) bunny_suit_hat",
-        "SortOrder": "52",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(574) bowler_hat",
-        "SortOrder": "77",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(568) mexican_dead_hat",
-        "SortOrder": "75",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(567) dead_mask_asia",
-        "SortOrder": "74",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(565) ancient_butterfly_mask",
-        "SortOrder": "73",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(564) skeletor_mask",
-        "SortOrder": "72",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(563) dotd_mask",
-        "SortOrder": "71",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(546) fez_hat",
-        "SortOrder": "70",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(569) dead_flower_crown",
-        "SortOrder": "76",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(641) deadmau5_hat",
-        "SortOrder": "84",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(297) cowboy_male_hat",
-        "SortOrder": "51",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(295) bunny_suit_hat",
-        "SortOrder": "49",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(116) panda",
-        "SortOrder": "18",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(121) bobbles",
-        "SortOrder": "19",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(123) cap",
-        "SortOrder": "20",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(127) deer",
-        "SortOrder": "21",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(128) evil",
-        "SortOrder": "22",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(129) fox",
-        "SortOrder": "23",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(130) hockey",
-        "SortOrder": "24",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(131) lizard",
-        "SortOrder": "25",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(132) log",
-        "SortOrder": "26",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(133) lucha_libre",
         "SortOrder": "27",
         "Unlockable": "False"
       },
       {
-        "Name": "(134) moose",
-        "SortOrder": "28",
+        "Name": "(1076) brazil_carnival_hat",
+        "SortOrder": "203",
         "Unlockable": "False"
       },
       {
-        "Name": "(135) octopus",
-        "SortOrder": "29",
+        "Name": "(1077) top_hat",
+        "SortOrder": "204",
         "Unlockable": "False"
       },
       {
-        "Name": "(136) rain",
-        "SortOrder": "30",
+        "Name": "(1078) cleopatra_headdress_royal",
+        "SortOrder": "205",
         "Unlockable": "False"
       },
       {
-        "Name": "(137) ram",
-        "SortOrder": "31",
+        "Name": "(1079) cleopatra_headdress_royal",
+        "SortOrder": "206",
         "Unlockable": "False"
       },
       {
-        "Name": "(140) rain",
-        "SortOrder": "32",
+        "Name": "(1080) cleopatra_headdress_royal",
+        "SortOrder": "207",
         "Unlockable": "False"
       },
       {
-        "Name": "(143) yeti",
-        "SortOrder": "33",
+        "Name": "(1083) pharaoh_headdress",
+        "SortOrder": "208",
         "Unlockable": "False"
       },
       {
-        "Name": "(204) viking",
-        "SortOrder": "34",
+        "Name": "(1085) pharaoh_headdress",
+        "SortOrder": "209",
         "Unlockable": "False"
       },
       {
-        "Name": "(294) rain",
-        "SortOrder": "48",
+        "Name": "(1086) pharaoh_headdress",
+        "SortOrder": "210",
         "Unlockable": "False"
       },
       {
-        "Name": "(293) cowboy_male_hat",
-        "SortOrder": "47",
+        "Name": "(1087) Cthulhu_mask",
+        "SortOrder": "211",
         "Unlockable": "False"
       },
       {
-        "Name": "(292) cap",
-        "SortOrder": "46",
+        "Name": "(1088) Cthulhu_mask",
+        "SortOrder": "212",
         "Unlockable": "False"
       },
       {
-        "Name": "(291) top_hat",
-        "SortOrder": "45",
+        "Name": "(1089) Cthulhu_mask",
+        "SortOrder": "213",
         "Unlockable": "False"
       },
       {
-        "Name": "(287) bobbles",
-        "SortOrder": "44",
+        "Name": "(1090) brazil_carnival_hat",
+        "SortOrder": "214",
         "Unlockable": "False"
       },
       {
-        "Name": "(286) viking",
-        "SortOrder": "43",
+        "Name": "(1092) brazil_carnival_hat",
+        "SortOrder": "215",
         "Unlockable": "False"
       },
       {
-        "Name": "(296) cap",
-        "SortOrder": "50",
+        "Name": "(1097) Cthulhu_mask",
+        "SortOrder": "216",
         "Unlockable": "False"
       },
       {
-        "Name": "(238) log",
-        "SortOrder": "42",
+        "Name": "(1075) brazil_carnival_hat",
+        "SortOrder": "202",
         "Unlockable": "False"
       },
       {
-        "Name": "(226) hockey",
-        "SortOrder": "40",
+        "Name": "(1098) top_hat",
+        "SortOrder": "217",
         "Unlockable": "False"
       },
       {
-        "Name": "(225) hockey",
-        "SortOrder": "39",
+        "Name": "(1101) pharaoh_headdress",
+        "SortOrder": "219",
         "Unlockable": "False"
       },
       {
-        "Name": "(208) lucha_libre",
-        "SortOrder": "38",
+        "Name": "(1113) Garden_gnome_hat",
+        "SortOrder": "220",
         "Unlockable": "False"
       },
       {
-        "Name": "(207) lucha_libre",
-        "SortOrder": "37",
+        "Name": "(1114) pumpkin_mask",
+        "SortOrder": "221",
         "Unlockable": "False"
       },
       {
-        "Name": "(206) lucha_libre",
-        "SortOrder": "36",
+        "Name": "(1115) pumpkin_mask",
+        "SortOrder": "222",
         "Unlockable": "False"
       },
       {
-        "Name": "(205) lucha_libre",
-        "SortOrder": "35",
+        "Name": "(1116) pumpkin_mask",
+        "SortOrder": "223",
         "Unlockable": "False"
       },
       {
-        "Name": "(230) cap",
-        "SortOrder": "41",
+        "Name": "(1117) tiara",
+        "SortOrder": "224",
         "Unlockable": "False"
       },
       {
-        "Name": "(1554) caterpillar_mask_02",
-        "SortOrder": "293",
+        "Name": "(1118) Garden_gnome_hat",
+        "SortOrder": "225",
         "Unlockable": "False"
       },
       {
-        "Name": "(642) deadmau5_hat",
-        "SortOrder": "85",
+        "Name": "(1119) Garden_gnome_hat",
+        "SortOrder": "226",
         "Unlockable": "False"
       },
       {
-        "Name": "(650) miner_hat",
-        "SortOrder": "87",
+        "Name": "(1120) Guy_Fawkes_hat",
+        "SortOrder": "227",
         "Unlockable": "False"
       },
       {
-        "Name": "(749) beanies_guy_hat",
-        "SortOrder": "123",
+        "Name": "(1121) Guy_Fawkes_hat",
+        "SortOrder": "228",
         "Unlockable": "False"
       },
       {
-        "Name": "(760) womens_pirate_hat",
-        "SortOrder": "124",
+        "Name": "(1122) pot_mask",
+        "SortOrder": "229",
         "Unlockable": "False"
       },
       {
-        "Name": "(761) capcake_hat",
-        "SortOrder": "125",
+        "Name": "(1123) zille_mask",
+        "SortOrder": "230",
         "Unlockable": "False"
       },
       {
-        "Name": "(762) capcake_hat",
-        "SortOrder": "126",
+        "Name": "(1124) alph_mask",
+        "SortOrder": "231",
         "Unlockable": "False"
       },
       {
-        "Name": "(777) Godzilla_Hat",
-        "SortOrder": "127",
+        "Name": "(1125) friendly_mask",
+        "SortOrder": "232",
         "Unlockable": "False"
       },
       {
-        "Name": "(780) capcake_hat",
-        "SortOrder": "128",
+        "Name": "(1099) top_hat",
+        "SortOrder": "218",
         "Unlockable": "False"
       },
       {
-        "Name": "(781) Godzilla_Hat",
-        "SortOrder": "129",
+        "Name": "(1074) brazil_carnival_hat",
+        "SortOrder": "201",
         "Unlockable": "False"
       },
       {
-        "Name": "(789) mens_pirate_hat",
-        "SortOrder": "130",
+        "Name": "(1069) cleopatra_headdress_casual",
+        "SortOrder": "200",
         "Unlockable": "False"
       },
       {
-        "Name": "(790) man_straw_hat",
-        "SortOrder": "131",
+        "Name": "(1068) cleopatra_headdress_casual",
+        "SortOrder": "199",
         "Unlockable": "False"
       },
       {
-        "Name": "(791) watermelon_hat",
-        "SortOrder": "132",
+        "Name": "(888) gorilla_mask",
+        "SortOrder": "168",
         "Unlockable": "False"
       },
       {
-        "Name": "(793) tower",
-        "SortOrder": "133",
+        "Name": "(890) sherwani_hat",
+        "SortOrder": "169",
         "Unlockable": "False"
       },
       {
-        "Name": "(794) unicorn_hat",
-        "SortOrder": "134",
+        "Name": "(912) flat_cap",
+        "SortOrder": "170",
         "Unlockable": "False"
       },
       {
-        "Name": "(801) tower",
-        "SortOrder": "135",
+        "Name": "(922) sherwani_hat",
+        "SortOrder": "171",
         "Unlockable": "False"
       },
       {
-        "Name": "(807) tower",
-        "SortOrder": "136",
+        "Name": "(923) sherwani_hat",
+        "SortOrder": "172",
         "Unlockable": "False"
       },
       {
-        "Name": "(822) man_straw_hat",
-        "SortOrder": "137",
+        "Name": "(930) flat_cap",
+        "SortOrder": "173",
         "Unlockable": "False"
       },
       {
-        "Name": "(824) ramian_hat",
-        "SortOrder": "138",
+        "Name": "(960) body_suit_mask",
+        "SortOrder": "174",
         "Unlockable": "False"
       },
       {
-        "Name": "(825) Pickelhaube",
-        "SortOrder": "139",
+        "Name": "(963) flat_cap",
+        "SortOrder": "175",
         "Unlockable": "False"
       },
       {
-        "Name": "(880) Guy_Fawkes_mask",
-        "SortOrder": "153",
+        "Name": "(965) mask_and_snorkel",
+        "SortOrder": "176",
         "Unlockable": "False"
       },
       {
-        "Name": "(875) gorilla_mask",
-        "SortOrder": "152",
+        "Name": "(974) mask_and_snorkel",
+        "SortOrder": "177",
         "Unlockable": "False"
       },
       {
-        "Name": "(872) gorilla_mask",
-        "SortOrder": "151",
+        "Name": "(977) bavarian_hat",
+        "SortOrder": "178",
         "Unlockable": "False"
       },
       {
-        "Name": "(869) gorilla_mask",
-        "SortOrder": "150",
+        "Name": "(1003) elven_boy_hat",
+        "SortOrder": "179",
         "Unlockable": "False"
       },
       {
-        "Name": "(868) gorilla_mask",
-        "SortOrder": "149",
+        "Name": "(1004) elven_boy_hat",
+        "SortOrder": "180",
         "Unlockable": "False"
       },
       {
-        "Name": "(863) Pickelhaube",
-        "SortOrder": "148",
+        "Name": "(1009) gas_mask",
+        "SortOrder": "181",
         "Unlockable": "False"
       },
       {
-        "Name": "(748) miner_hat",
-        "SortOrder": "122",
+        "Name": "(1010) zombie_boy_mask",
+        "SortOrder": "182",
         "Unlockable": "False"
       },
       {
-        "Name": "(862) Pickelhaube",
-        "SortOrder": "147",
+        "Name": "(1022) zombie_boy_mask",
+        "SortOrder": "183",
         "Unlockable": "False"
       },
       {
-        "Name": "(855) Mini_dino_hat",
-        "SortOrder": "145",
+        "Name": "(1023) zombie_boy_mask",
+        "SortOrder": "184",
         "Unlockable": "False"
       },
       {
-        "Name": "(850) unicorn_hat",
-        "SortOrder": "144",
+        "Name": "(1066) cleopatra_headdress_casual",
+        "SortOrder": "198",
         "Unlockable": "False"
       },
       {
-        "Name": "(845) Pickelhaube",
-        "SortOrder": "143",
+        "Name": "(1065) top_hat",
+        "SortOrder": "197",
         "Unlockable": "False"
       },
       {
-        "Name": "(834) unicorn_hat",
-        "SortOrder": "142",
+        "Name": "(1064) top_hat",
+        "SortOrder": "196",
         "Unlockable": "False"
       },
       {
-        "Name": "(831) Mini_dino_hat",
-        "SortOrder": "141",
+        "Name": "(1063) top_hat",
+        "SortOrder": "195",
         "Unlockable": "False"
       },
       {
-        "Name": "(829) Mini_dino_hat",
-        "SortOrder": "140",
+        "Name": "(1062) top_hat",
+        "SortOrder": "194",
         "Unlockable": "False"
       },
       {
-        "Name": "(856) Mini_dino_hat",
-        "SortOrder": "146",
+        "Name": "(1040) elven_boy_hat",
+        "SortOrder": "193",
         "Unlockable": "False"
       },
       {
-        "Name": "(649) venetian_mask_lady",
-        "SortOrder": "86",
+        "Name": "(1126) Lem_mask",
+        "SortOrder": "233",
         "Unlockable": "False"
       },
       {
-        "Name": "(747) Godzilla_Hat",
-        "SortOrder": "121",
+        "Name": "(1039) cat_ear",
+        "SortOrder": "192",
         "Unlockable": "False"
       },
       {
-        "Name": "(741) greek_fisher_hat",
-        "SortOrder": "119",
+        "Name": "(1037) zombie_girl_mask",
+        "SortOrder": "190",
         "Unlockable": "False"
       },
       {
-        "Name": "(651) miner_hat",
-        "SortOrder": "88",
+        "Name": "(1036) zombie_girl_mask",
+        "SortOrder": "189",
         "Unlockable": "False"
       },
       {
-        "Name": "(652) cosma_hat",
-        "SortOrder": "89",
+        "Name": "(1035) zombie_girl_mask",
+        "SortOrder": "188",
         "Unlockable": "False"
       },
       {
-        "Name": "(656) rook_headpiece",
-        "SortOrder": "90",
+        "Name": "(1030) ninja_hat",
+        "SortOrder": "187",
         "Unlockable": "False"
       },
       {
-        "Name": "(662) deadmau5_hat",
-        "SortOrder": "91",
+        "Name": "(1025) ninja_hat",
+        "SortOrder": "186",
         "Unlockable": "False"
       },
       {
-        "Name": "(663) cat_ear",
-        "SortOrder": "92",
+        "Name": "(1024) ninja_hat",
+        "SortOrder": "185",
         "Unlockable": "False"
       },
       {
-        "Name": "(677) catwoman_mask",
-        "SortOrder": "93",
+        "Name": "(1038) zombie_girl_mask",
+        "SortOrder": "191",
         "Unlockable": "False"
       },
       {
-        "Name": "(680) armor_hat",
-        "SortOrder": "94",
+        "Name": "(1127) humbaba_mask",
+        "SortOrder": "234",
         "Unlockable": "False"
       },
       {
-        "Name": "(684) catwoman_mask",
-        "SortOrder": "95",
+        "Name": "(1128) grendaline_mask",
+        "SortOrder": "235",
         "Unlockable": "False"
       },
       {
-        "Name": "(690) armor_hat",
-        "SortOrder": "96",
+        "Name": "(1129) mab_mask",
+        "SortOrder": "236",
         "Unlockable": "False"
       },
       {
-        "Name": "(692) domoku_hat",
-        "SortOrder": "97",
+        "Name": "(1337) tiara",
+        "SortOrder": "272",
         "Unlockable": "False"
       },
       {
-        "Name": "(693) beanies_guy_hat",
-        "SortOrder": "98",
+        "Name": "(1350) tower",
+        "SortOrder": "273",
         "Unlockable": "False"
       },
       {
-        "Name": "(694) beanies_guy_hat",
-        "SortOrder": "99",
+        "Name": "(1379) cap",
+        "SortOrder": "274",
         "Unlockable": "False"
       },
       {
-        "Name": "(695) beanies_guy_hat",
-        "SortOrder": "100",
+        "Name": "(1387) elven_boy_hat",
+        "SortOrder": "275",
         "Unlockable": "False"
       },
       {
-        "Name": "(696) beanies_guy_hat",
-        "SortOrder": "101",
+        "Name": "(1394) fez_hat",
+        "SortOrder": "276",
         "Unlockable": "False"
       },
       {
-        "Name": "(697) Rasta_hat",
-        "SortOrder": "102",
+        "Name": "(1406) tower",
+        "SortOrder": "277",
         "Unlockable": "False"
       },
       {
-        "Name": "(707) rook_headpiece",
-        "SortOrder": "103",
+        "Name": "(1407) beanies_guy_hat",
+        "SortOrder": "278",
         "Unlockable": "False"
       },
       {
-        "Name": "(711) question_hat",
-        "SortOrder": "104",
+        "Name": "(1417) GlitchamaphoneButterflyMask",
+        "SortOrder": "279",
         "Unlockable": "False"
       },
       {
-        "Name": "(740) tower",
-        "SortOrder": "118",
+        "Name": "(1418) GlitchamaphonePigMask",
+        "SortOrder": "280",
         "Unlockable": "False"
       },
       {
-        "Name": "(739) striped_tuque",
-        "SortOrder": "117",
+        "Name": "(1419) GlitchamaphoneFoxMask",
+        "SortOrder": "281",
         "Unlockable": "False"
       },
       {
-        "Name": "(738) striped_tuque",
-        "SortOrder": "116",
+        "Name": "(1420) GlitchamaphoneSlothMask",
+        "SortOrder": "282",
         "Unlockable": "False"
       },
       {
-        "Name": "(737) girl_straw_hat",
-        "SortOrder": "115",
+        "Name": "(1421) GlitchamaphoneChickenMask",
+        "SortOrder": "283",
         "Unlockable": "False"
       },
       {
-        "Name": "(736) greek_fisher_hat",
-        "SortOrder": "114",
+        "Name": "(1440) dead_mask_asia",
+        "SortOrder": "284",
         "Unlockable": "False"
       },
       {
-        "Name": "(735) cowboy_female_hat",
-        "SortOrder": "113",
+        "Name": "(1441) pharaoh_headdress",
+        "SortOrder": "285",
         "Unlockable": "False"
       },
       {
-        "Name": "(746) striped_tuque",
-        "SortOrder": "120",
+        "Name": "(1446) Guy_Fawkes_hat",
+        "SortOrder": "286",
         "Unlockable": "False"
       },
       {
-        "Name": "(734) makizushi_hat",
-        "SortOrder": "112",
+        "Name": "(1464) top_hat",
+        "SortOrder": "287",
         "Unlockable": "False"
       },
       {
-        "Name": "(730) chef_hat",
-        "SortOrder": "110",
+        "Name": "(1477) beanies_guy_hat",
+        "SortOrder": "288",
         "Unlockable": "False"
       },
       {
-        "Name": "(729) maki_roll_hat",
-        "SortOrder": "109",
+        "Name": "(1551) caterpillar_mask_01",
+        "SortOrder": "302",
         "Unlockable": "False"
       },
       {
-        "Name": "(728) fish_egg_hat",
-        "SortOrder": "108",
+        "Name": "(1532) steampunk_hat",
+        "SortOrder": "301",
         "Unlockable": "False"
       },
       {
-        "Name": "(727) ramian_hat",
-        "SortOrder": "107",
+        "Name": "(1531) party_hat",
+        "SortOrder": "300",
         "Unlockable": "False"
       },
       {
-        "Name": "(725) ultraman_hat",
-        "SortOrder": "106",
+        "Name": "(1530) party_hat",
+        "SortOrder": "299",
         "Unlockable": "False"
       },
       {
-        "Name": "(720) armor_hat",
-        "SortOrder": "105",
+        "Name": "(1529) party_hat",
+        "SortOrder": "298",
         "Unlockable": "False"
       },
       {
-        "Name": "(731) Godzilla_Hat",
-        "SortOrder": "111",
+        "Name": "(1528) party_hat",
+        "SortOrder": "297",
         "Unlockable": "False"
       },
       {
-        "Name": "(1557) caterpillar_mask_03",
+        "Name": "(1336) top_hat",
+        "SortOrder": "271",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1527) Garden_gnome_hat",
+        "SortOrder": "296",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1517) cowboy_male_hat",
         "SortOrder": "294",
         "Unlockable": "False"
       },
       {
+        "Name": "(1502) deadmau5_hat",
+        "SortOrder": "293",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1501) tower",
+        "SortOrder": "292",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1500) bear",
+        "SortOrder": "291",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1497) sherwani_hat",
+        "SortOrder": "290",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1490) hockey",
+        "SortOrder": "289",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1524) womens_pirate_hat",
+        "SortOrder": "295",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(887) gorilla_mask",
+        "SortOrder": "167",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1331) bowler_hat",
+        "SortOrder": "270",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1311) elven_boy_hat",
+        "SortOrder": "268",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1130) rook_mask",
+        "SortOrder": "237",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1131) tii_mask",
+        "SortOrder": "238",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1132) spriggan_mask",
+        "SortOrder": "239",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1133) womens_pirate_hat",
+        "SortOrder": "240",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1134) womens_pirate_hat",
+        "SortOrder": "241",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1135) womens_pirate_hat",
+        "SortOrder": "242",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1136) mens_pirate_hat",
+        "SortOrder": "243",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1137) mens_pirate_hat",
+        "SortOrder": "244",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1157) crystals_test",
+        "SortOrder": "245",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1162) womens_pirate_hat",
+        "SortOrder": "246",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1163) womens_pirate_hat",
+        "SortOrder": "247",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1164) womens_pirate_hat",
+        "SortOrder": "248",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1165) womens_pirate_hat",
+        "SortOrder": "249",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1169) tiara",
+        "SortOrder": "250",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1170) tiara",
+        "SortOrder": "251",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1176) heart_helmet",
+        "SortOrder": "252",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1181) purpleflower_mask",
+        "SortOrder": "253",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1310) elven_boy_hat",
+        "SortOrder": "267",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1309) elven_boy_hat",
+        "SortOrder": "266",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1295) elven_boy_hat",
+        "SortOrder": "265",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1241) steampunk_hat",
+        "SortOrder": "264",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1240) steampunk_hat",
+        "SortOrder": "263",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1239) steampunk_hat",
+        "SortOrder": "262",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1325) top_hat",
+        "SortOrder": "269",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1235) flapper_headband",
+        "SortOrder": "261",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1233) flapper_headband",
+        "SortOrder": "259",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1232) flapper_headband",
+        "SortOrder": "258",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1230) flapper_headband",
+        "SortOrder": "257",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1195) cat_ear",
+        "SortOrder": "256",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1193) heart_helmet",
+        "SortOrder": "255",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1192) heart_helmet",
+        "SortOrder": "254",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1234) flapper_headband",
+        "SortOrder": "260",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(886) gorilla_mask",
+        "SortOrder": "166",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(885) gorilla_mask",
+        "SortOrder": "165",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(881) hockey",
+        "SortOrder": "164",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(299) cowboy_female_hat",
+        "SortOrder": "63",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(300) miner_hat",
+        "SortOrder": "64",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(301) ancient_butterfly_mask",
+        "SortOrder": "65",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(383) dead_mask_asia",
+        "SortOrder": "66",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(389) venetian_mask_lady",
+        "SortOrder": "67",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(394) cardboard_robot_hat",
+        "SortOrder": "68",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(401) venetian_mask_beak",
+        "SortOrder": "69",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(402) venetian_mask_chinny",
+        "SortOrder": "70",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(403) venetian_mask_phantom",
+        "SortOrder": "71",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(418) tower",
+        "SortOrder": "72",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(419) nineteen_century",
+        "SortOrder": "73",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(457) revolution_military_hat",
+        "SortOrder": "74",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(471) chicken_hat",
+        "SortOrder": "75",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(512) chicken_hat",
+        "SortOrder": "76",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(531) beefeater_hat",
+        "SortOrder": "77",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(536) fez_hat",
+        "SortOrder": "78",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(539) bowler_hat",
+        "SortOrder": "79",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(638) aviator_hat",
+        "SortOrder": "93",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(616) FoxHat_Tester",
+        "SortOrder": "92",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(612) rook_headpiece",
+        "SortOrder": "91",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(595) cowboy_male_hat",
+        "SortOrder": "90",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(583) bowler_hat",
+        "SortOrder": "89",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(582) dotd_mask",
+        "SortOrder": "88",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(298) bunny_suit_hat",
+        "SortOrder": "62",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(574) bowler_hat",
+        "SortOrder": "87",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(568) mexican_dead_hat",
+        "SortOrder": "85",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(567) dead_mask_asia",
+        "SortOrder": "84",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(565) ancient_butterfly_mask",
+        "SortOrder": "83",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(564) skeletor_mask",
+        "SortOrder": "82",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(563) dotd_mask",
+        "SortOrder": "81",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(546) fez_hat",
+        "SortOrder": "80",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(569) dead_flower_crown",
+        "SortOrder": "86",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(641) deadmau5_hat",
+        "SortOrder": "94",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(297) cowboy_male_hat",
+        "SortOrder": "61",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(295) bunny_suit_hat",
+        "SortOrder": "59",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(116) panda",
+        "SortOrder": "28",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(121) bobbles",
+        "SortOrder": "29",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(123) cap",
+        "SortOrder": "30",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(127) deer",
+        "SortOrder": "31",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(128) evil",
+        "SortOrder": "32",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(129) fox",
+        "SortOrder": "33",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(130) hockey",
+        "SortOrder": "34",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(131) lizard",
+        "SortOrder": "35",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(132) log",
+        "SortOrder": "36",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(133) lucha_libre",
+        "SortOrder": "37",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(134) moose",
+        "SortOrder": "38",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(135) octopus",
+        "SortOrder": "39",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(136) rain",
+        "SortOrder": "40",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(137) ram",
+        "SortOrder": "41",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(140) rain",
+        "SortOrder": "42",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(143) yeti",
+        "SortOrder": "43",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(204) viking",
+        "SortOrder": "44",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(294) rain",
+        "SortOrder": "58",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(293) cowboy_male_hat",
+        "SortOrder": "57",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(292) cap",
+        "SortOrder": "56",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(291) top_hat",
+        "SortOrder": "55",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(287) bobbles",
+        "SortOrder": "54",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(286) viking",
+        "SortOrder": "53",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(296) cap",
+        "SortOrder": "60",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(238) log",
+        "SortOrder": "52",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(226) hockey",
+        "SortOrder": "50",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(225) hockey",
+        "SortOrder": "49",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(208) lucha_libre",
+        "SortOrder": "48",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(207) lucha_libre",
+        "SortOrder": "47",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(206) lucha_libre",
+        "SortOrder": "46",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(205) lucha_libre",
+        "SortOrder": "45",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(230) cap",
+        "SortOrder": "51",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1554) caterpillar_mask_02",
+        "SortOrder": "303",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(642) deadmau5_hat",
+        "SortOrder": "95",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(650) miner_hat",
+        "SortOrder": "97",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(749) beanies_guy_hat",
+        "SortOrder": "133",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(760) womens_pirate_hat",
+        "SortOrder": "134",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(761) capcake_hat",
+        "SortOrder": "135",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(762) capcake_hat",
+        "SortOrder": "136",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(777) Godzilla_Hat",
+        "SortOrder": "137",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(780) capcake_hat",
+        "SortOrder": "138",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(781) Godzilla_Hat",
+        "SortOrder": "139",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(789) mens_pirate_hat",
+        "SortOrder": "140",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(790) man_straw_hat",
+        "SortOrder": "141",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(791) watermelon_hat",
+        "SortOrder": "142",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(793) tower",
+        "SortOrder": "143",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(794) unicorn_hat",
+        "SortOrder": "144",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(801) tower",
+        "SortOrder": "145",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(807) tower",
+        "SortOrder": "146",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(822) man_straw_hat",
+        "SortOrder": "147",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(824) ramian_hat",
+        "SortOrder": "148",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(825) Pickelhaube",
+        "SortOrder": "149",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(880) Guy_Fawkes_mask",
+        "SortOrder": "163",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(875) gorilla_mask",
+        "SortOrder": "162",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(872) gorilla_mask",
+        "SortOrder": "161",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(869) gorilla_mask",
+        "SortOrder": "160",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(868) gorilla_mask",
+        "SortOrder": "159",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(863) Pickelhaube",
+        "SortOrder": "158",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(748) miner_hat",
+        "SortOrder": "132",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(862) Pickelhaube",
+        "SortOrder": "157",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(855) Mini_dino_hat",
+        "SortOrder": "155",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(850) unicorn_hat",
+        "SortOrder": "154",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(845) Pickelhaube",
+        "SortOrder": "153",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(834) unicorn_hat",
+        "SortOrder": "152",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(831) Mini_dino_hat",
+        "SortOrder": "151",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(829) Mini_dino_hat",
+        "SortOrder": "150",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(856) Mini_dino_hat",
+        "SortOrder": "156",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(649) venetian_mask_lady",
+        "SortOrder": "96",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(747) Godzilla_Hat",
+        "SortOrder": "131",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(741) greek_fisher_hat",
+        "SortOrder": "129",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(651) miner_hat",
+        "SortOrder": "98",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(652) cosma_hat",
+        "SortOrder": "99",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(656) rook_headpiece",
+        "SortOrder": "100",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(662) deadmau5_hat",
+        "SortOrder": "101",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(663) cat_ear",
+        "SortOrder": "102",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(677) catwoman_mask",
+        "SortOrder": "103",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(680) armor_hat",
+        "SortOrder": "104",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(684) catwoman_mask",
+        "SortOrder": "105",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(690) armor_hat",
+        "SortOrder": "106",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(692) domoku_hat",
+        "SortOrder": "107",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(693) beanies_guy_hat",
+        "SortOrder": "108",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(694) beanies_guy_hat",
+        "SortOrder": "109",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(695) beanies_guy_hat",
+        "SortOrder": "110",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(696) beanies_guy_hat",
+        "SortOrder": "111",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(697) Rasta_hat",
+        "SortOrder": "112",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(707) rook_headpiece",
+        "SortOrder": "113",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(711) question_hat",
+        "SortOrder": "114",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(740) tower",
+        "SortOrder": "128",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(739) striped_tuque",
+        "SortOrder": "127",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(738) striped_tuque",
+        "SortOrder": "126",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(737) girl_straw_hat",
+        "SortOrder": "125",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(736) greek_fisher_hat",
+        "SortOrder": "124",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(735) cowboy_female_hat",
+        "SortOrder": "123",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(746) striped_tuque",
+        "SortOrder": "130",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(734) makizushi_hat",
+        "SortOrder": "122",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(730) chef_hat",
+        "SortOrder": "120",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(729) maki_roll_hat",
+        "SortOrder": "119",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(728) fish_egg_hat",
+        "SortOrder": "118",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(727) ramian_hat",
+        "SortOrder": "117",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(725) ultraman_hat",
+        "SortOrder": "116",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(720) armor_hat",
+        "SortOrder": "115",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(731) Godzilla_Hat",
+        "SortOrder": "121",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1557) caterpillar_mask_03",
+        "SortOrder": "304",
+        "Unlockable": "False"
+      },
+      {
         "Name": "Robe_Hood",
-        "SortOrder": "16",
+        "SortOrder": "26",
         "Unlockable": "False"
       },
       {
         "Name": "Armor_B_Head",
-        "SortOrder": "8",
+        "SortOrder": "18",
         "Unlockable": "False"
       },
       {
         "Name": "Armor_G_Head",
-        "SortOrder": "9",
+        "SortOrder": "19",
         "Unlockable": "False"
       },
       {
         "Name": "Armor_W_Head",
-        "SortOrder": "10",
+        "SortOrder": "20",
         "Unlockable": "False"
       },
       {
         "Name": "SS_Blue_Head",
-        "SortOrder": "11",
+        "SortOrder": "21",
         "Unlockable": "False"
       },
       {
         "Name": "SS_Green_Head",
-        "SortOrder": "12",
+        "SortOrder": "22",
         "Unlockable": "False"
       },
       {
         "Name": "SS_Purple_Head",
-        "SortOrder": "13",
+        "SortOrder": "23",
         "Unlockable": "False"
       },
       {
         "Name": "SS_Red_Head",
-        "SortOrder": "14",
+        "SortOrder": "24",
         "Unlockable": "False"
       },
       {
         "Name": "SS_Yellow_Head",
-        "SortOrder": "15",
+        "SortOrder": "25",
         "Unlockable": "False"
       },
       {
         "Name": "Earth",
-        "SortOrder": "0",
+        "SortOrder": "10",
         "Unlockable": "False"
       },
       {
         "Name": "Jupiter",
-        "SortOrder": "1",
+        "SortOrder": "11",
         "Unlockable": "False"
       },
       {
         "Name": "Mars",
-        "SortOrder": "2",
+        "SortOrder": "12",
         "Unlockable": "False"
       },
       {
         "Name": "Mercury",
-        "SortOrder": "3",
+        "SortOrder": "13",
         "Unlockable": "False"
       },
       {
         "Name": "Neptune",
-        "SortOrder": "4",
+        "SortOrder": "14",
         "Unlockable": "False"
       },
       {
         "Name": "Saturn",
-        "SortOrder": "5",
+        "SortOrder": "15",
         "Unlockable": "False"
       },
       {
         "Name": "Uranus",
-        "SortOrder": "6",
+        "SortOrder": "16",
         "Unlockable": "False"
       },
       {
         "Name": "Venus",
+        "SortOrder": "17",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "SharkHat_Blue",
+        "SortOrder": "0",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "SharkHat_Gold",
+        "SortOrder": "1",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "SharkHat_Gray",
+        "SortOrder": "2",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "SharkHat_Green",
+        "SortOrder": "3",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "SharkHat_Orange",
+        "SortOrder": "4",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "SharkHat_Pink",
+        "SortOrder": "5",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "SharkHat_Purple",
+        "SortOrder": "6",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "SharkHat_Red",
         "SortOrder": "7",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "SharkHat_SeaGreen",
+        "SortOrder": "8",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "SharkHat_Yellow",
+        "SortOrder": "9",
         "Unlockable": "False"
       }
     ]
@@ -3527,1204 +3577,1304 @@
     "AvatarItems": [
       {
         "Name": "(139) mongolian_fighting",
-        "SortOrder": "7",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1139) elizabethan_coat",
-        "SortOrder": "154",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1140) elizabethan_coat",
-        "SortOrder": "155",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1153) rook_outfit_top",
-        "SortOrder": "156",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1174) garden_gnome_top",
-        "SortOrder": "157",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1175) garden_gnome_top",
-        "SortOrder": "158",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1177) garden_gnome_top",
-        "SortOrder": "159",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1180) spriggan_zille_friendly",
-        "SortOrder": "160",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1183) Humbaba_pot",
-        "SortOrder": "161",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1184) spriggan_zille_friendly",
-        "SortOrder": "162",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1185) Humbaba_pot",
-        "SortOrder": "163",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1186) spriggan_zille_friendly",
-        "SortOrder": "164",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1187) Grendaline_tii_outfit",
-        "SortOrder": "165",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1188) Grendaline_tii_outfit",
-        "SortOrder": "166",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1189) alph_lem",
-        "SortOrder": "167",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1190) alph_lem",
-        "SortOrder": "168",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1191) mab",
-        "SortOrder": "169",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1198) glitter_jacket",
-        "SortOrder": "170",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1199) glitter_jacket",
-        "SortOrder": "171",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1205) glitter_jacket",
-        "SortOrder": "172",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1211) chaulkywhite_coat",
-        "SortOrder": "173",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1212) chaulkywhite_coat",
-        "SortOrder": "174",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1213) chaulkywhite_coat",
-        "SortOrder": "175",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1214) chaulkywhite_coat",
-        "SortOrder": "176",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1215) chaulkywhite_coat",
-        "SortOrder": "177",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1242) Male_steampunk_top",
-        "SortOrder": "178",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1138) elizabethan_coat",
-        "SortOrder": "153",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1244) Male_steampunk_top",
-        "SortOrder": "179",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1112) Fisherman_vest",
-        "SortOrder": "152",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1107) Samurai_top",
-        "SortOrder": "150",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(983) elizabethan_robe",
-        "SortOrder": "125",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(984) elizabethan_coat",
-        "SortOrder": "126",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(985) elizabethan_coat",
-        "SortOrder": "127",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(986) elizabethan_coat",
-        "SortOrder": "128",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(987) elizabethan_coat",
-        "SortOrder": "129",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(991) bath_robe",
-        "SortOrder": "130",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(992) bath_robe",
-        "SortOrder": "131",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(993) bath_robe",
-        "SortOrder": "132",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(998) Reflective_Jacket",
-        "SortOrder": "133",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(999) Reflective_Jacket",
-        "SortOrder": "134",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1002) elven_boy_top",
-        "SortOrder": "135",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1005) fur_collar_coat",
-        "SortOrder": "136",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1012) mandarin_outfit",
-        "SortOrder": "137",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1021) mandarin_outfit",
-        "SortOrder": "138",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1041) elven_boy_top",
-        "SortOrder": "139",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1043) mandarin_outfit",
-        "SortOrder": "140",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1044) jacket_with_vest",
-        "SortOrder": "141",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1045) jacket_with_vest",
-        "SortOrder": "142",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1046) jacket_with_vest",
-        "SortOrder": "143",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1054) mandarin_outfit",
-        "SortOrder": "144",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1055) mandarin_outfit",
-        "SortOrder": "145",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1091) bath_robe",
-        "SortOrder": "146",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1100) bath_robe",
-        "SortOrder": "147",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1102) Samurai_top",
-        "SortOrder": "148",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1106) Samurai_top",
-        "SortOrder": "149",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1111) Fisherman_vest",
-        "SortOrder": "151",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1246) Male_steampunk_top",
-        "SortOrder": "180",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1269) glitter_jacket",
-        "SortOrder": "181",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1271) Male_steampunk_top",
-        "SortOrder": "182",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1487) plain_hoodie",
-        "SortOrder": "213",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1503) elizabethan_coat",
-        "SortOrder": "214",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1504) elizabethan_coat",
-        "SortOrder": "215",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1505) pea_coat",
-        "SortOrder": "216",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1516) native_top",
-        "SortOrder": "217",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1525) navy_coat",
-        "SortOrder": "218",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1533) chaulkywhite_coatshirtvest",
-        "SortOrder": "219",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1534) chaulkywhite_coatshirtvest",
-        "SortOrder": "220",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1535) chaulkywhite_coatshirtvest",
-        "SortOrder": "221",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1536) chaulkywhite_coatshirtvest",
-        "SortOrder": "222",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1537) chaulkywhite_coatshirtvest",
-        "SortOrder": "223",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1538) chaulkywhite_coatshirtvest",
-        "SortOrder": "224",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1540) chaulkywhite_coatshirtvest",
-        "SortOrder": "225",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1541) chaulkywhite_coatshirtvest",
-        "SortOrder": "226",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1543) chaulkywhite_coat",
-        "SortOrder": "227",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1544) chaulkywhite_coat",
-        "SortOrder": "228",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1545) chaulkywhite_coat",
-        "SortOrder": "229",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1546) train_01_coat",
-        "SortOrder": "230",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1547) train_02_coat",
-        "SortOrder": "231",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1548) train_04_coat",
-        "SortOrder": "232",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1549) train_03_coat",
-        "SortOrder": "233",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1550) train_05_coat",
-        "SortOrder": "234",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1552) RideDragon",
-        "SortOrder": "235",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1553) RideChicken",
-        "SortOrder": "236",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1555) RidePig",
-        "SortOrder": "237",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1482) Reflective_Jacket",
-        "SortOrder": "212",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1480) rain_coat",
-        "SortOrder": "211",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1479) tinyfox_hoodie",
-        "SortOrder": "210",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1478) navy_coat",
-        "SortOrder": "209",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1291) Boardwalk_Empire_Overcoat",
-        "SortOrder": "183",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1292) Boardwalk_Empire_Overcoat",
-        "SortOrder": "184",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1293) Boardwalk_Empire_Overcoat",
-        "SortOrder": "185",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1296) fur_collar_coat",
-        "SortOrder": "186",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1338) glitchfashionCoat",
-        "SortOrder": "187",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1339) glitchfashionCoat",
-        "SortOrder": "188",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1355) star_hoodie",
-        "SortOrder": "189",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1356) elizabethan_coat",
-        "SortOrder": "190",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1360) torero_top",
-        "SortOrder": "191",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1367) elizabethan_robe",
-        "SortOrder": "192",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1377) open_cycle_hoodie",
-        "SortOrder": "193",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1384) man_hoodie",
-        "SortOrder": "194",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(982) elizabethan_robe",
-        "SortOrder": "124",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1400) plaid_coat",
-        "SortOrder": "195",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1412) GlitchamaphoneChickenTop",
-        "SortOrder": "197",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1413) GlitchamaphonePigTop",
-        "SortOrder": "198",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1414) GlitchamaphoneFoxTop",
-        "SortOrder": "199",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1415) GlitchamaphoneSlothTop",
-        "SortOrder": "200",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1416) GlitchamaphoneButterflyTop",
-        "SortOrder": "201",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1431) kissballoon_hoodie",
-        "SortOrder": "202",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1432) elizabethan_coat",
-        "SortOrder": "203",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1437) jacket_with_vest",
-        "SortOrder": "204",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1439) bell_hoodie",
-        "SortOrder": "205",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1444) garden_gnome_top",
-        "SortOrder": "206",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1445) Fisherman_vest",
-        "SortOrder": "207",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1476) glitter_jacket",
-        "SortOrder": "208",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1410) elizabethan_robe",
-        "SortOrder": "196",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1556) RideBurgerCar",
-        "SortOrder": "238",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(981) elizabethan_robe",
-        "SortOrder": "123",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(968) elizabethan_coat",
-        "SortOrder": "121",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(482) tuxedo_and_bowtie",
-        "SortOrder": "37",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(483) plaid_coat",
-        "SortOrder": "38",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(487) spriggan_zille_friendly",
-        "SortOrder": "39",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(489) pea_coat",
-        "SortOrder": "40",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(497) plain_hoodie",
-        "SortOrder": "41",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(498) plaid_coat",
-        "SortOrder": "42",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(499) flower_hoodie",
-        "SortOrder": "43",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(500) flower_hoodie",
-        "SortOrder": "44",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(501) flower_hoodie",
-        "SortOrder": "45",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(510) MJ_Jacket",
-        "SortOrder": "46",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(560) baby_doll_coat",
-        "SortOrder": "47",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(587) pea_coat",
-        "SortOrder": "48",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(588) plaid_coat",
-        "SortOrder": "49",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(591) pea_coat",
-        "SortOrder": "50",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(592) Skywalker_Coat",
-        "SortOrder": "51",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(593) tweed_jacket",
-        "SortOrder": "52",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(594) bunny_suit_coat",
-        "SortOrder": "53",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(598) bunny_suit_coat",
-        "SortOrder": "54",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(599) fuzzy_jacket_with_scarf",
-        "SortOrder": "55",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(610) fuzzy_jacket_with_scarf",
-        "SortOrder": "56",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(611) fuzzy_jacket_with_scarf",
-        "SortOrder": "57",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(615) man_hoodie",
-        "SortOrder": "58",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(617) travolta_jacket",
-        "SortOrder": "59",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(619) cosma_coat",
-        "SortOrder": "60",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(620) long_poncho_coat",
-        "SortOrder": "61",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(481) plain_hoodie",
-        "SortOrder": "36",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(625) the_burka",
-        "SortOrder": "62",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(480) pirate_coat",
-        "SortOrder": "35",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(478) random_print_hoodie",
-        "SortOrder": "33",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(202) navy_coat",
-        "SortOrder": "8",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(212) navy_coat",
-        "SortOrder": "9",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(288) navy_coat",
-        "SortOrder": "10",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(289) navy_coat",
-        "SortOrder": "11",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(290) navy_coat",
-        "SortOrder": "12",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(315) rain_coat",
-        "SortOrder": "13",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(393) cardboard_robot_top",
-        "SortOrder": "14",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(396) flower_hoodie",
-        "SortOrder": "15",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(397) cryingface_hoodie",
-        "SortOrder": "16",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(398) Fur_lined_Coat",
-        "SortOrder": "17",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(434) tinyfox_hoodie",
-        "SortOrder": "18",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(437) rainingtongue_hoodie",
-        "SortOrder": "19",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(438) fur_collar_coat",
-        "SortOrder": "20",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(439) random_print_hoodie",
-        "SortOrder": "21",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(441) open_cycle_hoodie",
-        "SortOrder": "22",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(444) chicken_suit_top",
-        "SortOrder": "23",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(445) france_coat",
-        "SortOrder": "24",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(446) bell_hoodie",
-        "SortOrder": "25",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(447) cloudy_hoodie",
-        "SortOrder": "26",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(448) kissballoon_hoodie",
         "SortOrder": "27",
         "Unlockable": "False"
       },
       {
-        "Name": "(450) Skywalker_Coat",
-        "SortOrder": "28",
+        "Name": "(1139) elizabethan_coat",
+        "SortOrder": "174",
         "Unlockable": "False"
       },
       {
-        "Name": "(465) tweed_jacket",
-        "SortOrder": "29",
+        "Name": "(1140) elizabethan_coat",
+        "SortOrder": "175",
         "Unlockable": "False"
       },
       {
-        "Name": "(470) chicken_suit_top",
-        "SortOrder": "30",
+        "Name": "(1153) rook_outfit_top",
+        "SortOrder": "176",
         "Unlockable": "False"
       },
       {
-        "Name": "(475) nevermore_guy_top",
-        "SortOrder": "31",
+        "Name": "(1174) garden_gnome_top",
+        "SortOrder": "177",
         "Unlockable": "False"
       },
       {
-        "Name": "(477) MJ_Jacket",
-        "SortOrder": "32",
+        "Name": "(1175) garden_gnome_top",
+        "SortOrder": "178",
         "Unlockable": "False"
       },
       {
-        "Name": "(479) chef_coat",
-        "SortOrder": "34",
+        "Name": "(1177) garden_gnome_top",
+        "SortOrder": "179",
         "Unlockable": "False"
       },
       {
-        "Name": "(634) star_hoodie",
-        "SortOrder": "63",
+        "Name": "(1180) spriggan_zille_friendly",
+        "SortOrder": "180",
         "Unlockable": "False"
       },
       {
-        "Name": "(636) native_top",
-        "SortOrder": "64",
+        "Name": "(1183) Humbaba_pot",
+        "SortOrder": "181",
         "Unlockable": "False"
       },
       {
-        "Name": "(655) native_top",
-        "SortOrder": "65",
+        "Name": "(1184) spriggan_zille_friendly",
+        "SortOrder": "182",
         "Unlockable": "False"
       },
       {
-        "Name": "(832) Mini_dino_top",
-        "SortOrder": "96",
+        "Name": "(1185) Humbaba_pot",
+        "SortOrder": "183",
         "Unlockable": "False"
       },
       {
-        "Name": "(836) military_coat",
-        "SortOrder": "97",
+        "Name": "(1186) spriggan_zille_friendly",
+        "SortOrder": "184",
         "Unlockable": "False"
       },
       {
-        "Name": "(843) unicorn_top",
-        "SortOrder": "98",
+        "Name": "(1187) Grendaline_tii_outfit",
+        "SortOrder": "185",
         "Unlockable": "False"
       },
       {
-        "Name": "(847) Mini_dino_top",
-        "SortOrder": "99",
+        "Name": "(1188) Grendaline_tii_outfit",
+        "SortOrder": "186",
         "Unlockable": "False"
       },
       {
-        "Name": "(848) military_coat",
-        "SortOrder": "100",
+        "Name": "(1189) alph_lem",
+        "SortOrder": "187",
         "Unlockable": "False"
       },
       {
-        "Name": "(851) unicorn_top",
-        "SortOrder": "101",
+        "Name": "(1190) alph_lem",
+        "SortOrder": "188",
         "Unlockable": "False"
       },
       {
-        "Name": "(854) Mini_dino_top",
-        "SortOrder": "102",
+        "Name": "(1191) mab",
+        "SortOrder": "189",
         "Unlockable": "False"
       },
       {
-        "Name": "(860) military_coat",
-        "SortOrder": "103",
+        "Name": "(1198) glitter_jacket",
+        "SortOrder": "190",
         "Unlockable": "False"
       },
       {
-        "Name": "(864) military_coat",
-        "SortOrder": "104",
+        "Name": "(1199) glitter_jacket",
+        "SortOrder": "191",
         "Unlockable": "False"
       },
       {
-        "Name": "(873) gorilla_coat",
-        "SortOrder": "105",
+        "Name": "(1205) glitter_jacket",
+        "SortOrder": "192",
         "Unlockable": "False"
       },
       {
-        "Name": "(876) gorilla_coat",
-        "SortOrder": "106",
+        "Name": "(1211) chaulkywhite_coat",
+        "SortOrder": "193",
         "Unlockable": "False"
       },
       {
-        "Name": "(877) gorilla_coat",
-        "SortOrder": "107",
+        "Name": "(1212) chaulkywhite_coat",
+        "SortOrder": "194",
         "Unlockable": "False"
       },
       {
-        "Name": "(878) gorilla_coat",
-        "SortOrder": "108",
+        "Name": "(1213) chaulkywhite_coat",
+        "SortOrder": "195",
         "Unlockable": "False"
       },
       {
-        "Name": "(889) sherwani_top",
-        "SortOrder": "109",
+        "Name": "(1214) chaulkywhite_coat",
+        "SortOrder": "196",
         "Unlockable": "False"
       },
       {
-        "Name": "(892) torero_top",
-        "SortOrder": "110",
+        "Name": "(1215) chaulkywhite_coat",
+        "SortOrder": "197",
         "Unlockable": "False"
       },
       {
-        "Name": "(909) sherwani_top",
-        "SortOrder": "111",
+        "Name": "(1242) Male_steampunk_top",
+        "SortOrder": "198",
         "Unlockable": "False"
       },
       {
-        "Name": "(910) sherwani_top",
-        "SortOrder": "112",
+        "Name": "(1138) elizabethan_coat",
+        "SortOrder": "173",
         "Unlockable": "False"
       },
       {
-        "Name": "(942) torero_top",
-        "SortOrder": "113",
+        "Name": "(1244) Male_steampunk_top",
+        "SortOrder": "199",
         "Unlockable": "False"
       },
       {
-        "Name": "(943) torero_top",
-        "SortOrder": "114",
+        "Name": "(1112) Fisherman_vest",
+        "SortOrder": "172",
         "Unlockable": "False"
       },
       {
-        "Name": "(944) torero_top",
-        "SortOrder": "115",
+        "Name": "(1107) Samurai_top",
+        "SortOrder": "170",
         "Unlockable": "False"
       },
       {
-        "Name": "(957) plain_robe",
-        "SortOrder": "116",
+        "Name": "(983) elizabethan_robe",
+        "SortOrder": "145",
         "Unlockable": "False"
       },
       {
-        "Name": "(958) plain_robe",
-        "SortOrder": "117",
+        "Name": "(984) elizabethan_coat",
+        "SortOrder": "146",
         "Unlockable": "False"
       },
       {
-        "Name": "(959) plain_robe",
-        "SortOrder": "118",
+        "Name": "(985) elizabethan_coat",
+        "SortOrder": "147",
         "Unlockable": "False"
       },
       {
-        "Name": "(964) hunting_jacket",
-        "SortOrder": "119",
+        "Name": "(986) elizabethan_coat",
+        "SortOrder": "148",
         "Unlockable": "False"
       },
       {
-        "Name": "(967) sherwani_top",
-        "SortOrder": "120",
+        "Name": "(987) elizabethan_coat",
+        "SortOrder": "149",
         "Unlockable": "False"
       },
       {
-        "Name": "(830) Mini_dino_top",
-        "SortOrder": "95",
+        "Name": "(991) bath_robe",
+        "SortOrder": "150",
         "Unlockable": "False"
       },
       {
-        "Name": "(827) cosma_coat",
-        "SortOrder": "94",
+        "Name": "(992) bath_robe",
+        "SortOrder": "151",
         "Unlockable": "False"
       },
       {
-        "Name": "(826) cosma_coat",
-        "SortOrder": "93",
+        "Name": "(993) bath_robe",
+        "SortOrder": "152",
         "Unlockable": "False"
       },
       {
-        "Name": "(819) mongolian_fighting",
-        "SortOrder": "92",
+        "Name": "(998) Reflective_Jacket",
+        "SortOrder": "153",
         "Unlockable": "False"
       },
       {
-        "Name": "(657) native_top",
-        "SortOrder": "66",
+        "Name": "(999) Reflective_Jacket",
+        "SortOrder": "154",
         "Unlockable": "False"
       },
       {
-        "Name": "(666) the_burka",
-        "SortOrder": "67",
+        "Name": "(1002) elven_boy_top",
+        "SortOrder": "155",
         "Unlockable": "False"
       },
       {
-        "Name": "(675) long_poncho_coat",
-        "SortOrder": "68",
+        "Name": "(1005) fur_collar_coat",
+        "SortOrder": "156",
         "Unlockable": "False"
       },
       {
-        "Name": "(678) armor_suit_top",
-        "SortOrder": "69",
+        "Name": "(1012) mandarin_outfit",
+        "SortOrder": "157",
         "Unlockable": "False"
       },
       {
-        "Name": "(688) armor_suit_top",
-        "SortOrder": "70",
+        "Name": "(1021) mandarin_outfit",
+        "SortOrder": "158",
         "Unlockable": "False"
       },
       {
-        "Name": "(698) plain_cardigan",
-        "SortOrder": "71",
+        "Name": "(1041) elven_boy_top",
+        "SortOrder": "159",
         "Unlockable": "False"
       },
       {
-        "Name": "(699) the_burka",
-        "SortOrder": "72",
+        "Name": "(1043) mandarin_outfit",
+        "SortOrder": "160",
         "Unlockable": "False"
       },
       {
-        "Name": "(703) straight_jacket",
-        "SortOrder": "73",
+        "Name": "(1044) jacket_with_vest",
+        "SortOrder": "161",
         "Unlockable": "False"
       },
       {
-        "Name": "(717) hot_dog_suit",
-        "SortOrder": "74",
+        "Name": "(1045) jacket_with_vest",
+        "SortOrder": "162",
         "Unlockable": "False"
       },
       {
-        "Name": "(718) armor_suit_top",
-        "SortOrder": "75",
+        "Name": "(1046) jacket_with_vest",
+        "SortOrder": "163",
         "Unlockable": "False"
       },
       {
-        "Name": "(721) maki_costume",
-        "SortOrder": "76",
+        "Name": "(1054) mandarin_outfit",
+        "SortOrder": "164",
         "Unlockable": "False"
       },
       {
-        "Name": "(724) japadog",
-        "SortOrder": "77",
+        "Name": "(1055) mandarin_outfit",
+        "SortOrder": "165",
         "Unlockable": "False"
       },
       {
-        "Name": "(980) elven_boy_top",
-        "SortOrder": "122",
+        "Name": "(1091) bath_robe",
+        "SortOrder": "166",
         "Unlockable": "False"
       },
       {
-        "Name": "(726) nigiri_ebi_costume",
-        "SortOrder": "78",
+        "Name": "(1100) bath_robe",
+        "SortOrder": "167",
         "Unlockable": "False"
       },
       {
-        "Name": "(758) lab_coat",
-        "SortOrder": "80",
+        "Name": "(1102) Samurai_top",
+        "SortOrder": "168",
         "Unlockable": "False"
       },
       {
-        "Name": "(769) tweed_jacket",
-        "SortOrder": "81",
+        "Name": "(1106) Samurai_top",
+        "SortOrder": "169",
         "Unlockable": "False"
       },
       {
-        "Name": "(774) Godzilla_Top",
-        "SortOrder": "82",
+        "Name": "(1111) Fisherman_vest",
+        "SortOrder": "171",
         "Unlockable": "False"
       },
       {
-        "Name": "(775) tweed_jacket",
-        "SortOrder": "83",
+        "Name": "(1246) Male_steampunk_top",
+        "SortOrder": "200",
         "Unlockable": "False"
       },
       {
-        "Name": "(778) Godzilla_Top",
-        "SortOrder": "84",
+        "Name": "(1269) glitter_jacket",
+        "SortOrder": "201",
         "Unlockable": "False"
       },
       {
-        "Name": "(783) Godzilla_Top",
-        "SortOrder": "85",
+        "Name": "(1271) Male_steampunk_top",
+        "SortOrder": "202",
         "Unlockable": "False"
       },
       {
-        "Name": "(787) gorilla_coat",
-        "SortOrder": "86",
+        "Name": "(1487) plain_hoodie",
+        "SortOrder": "233",
         "Unlockable": "False"
       },
       {
-        "Name": "(792) mongolian_fighting",
-        "SortOrder": "87",
+        "Name": "(1503) elizabethan_coat",
+        "SortOrder": "234",
         "Unlockable": "False"
       },
       {
-        "Name": "(795) unicorn_top",
-        "SortOrder": "88",
+        "Name": "(1504) elizabethan_coat",
+        "SortOrder": "235",
         "Unlockable": "False"
       },
       {
-        "Name": "(802) lab_coat",
-        "SortOrder": "89",
+        "Name": "(1505) pea_coat",
+        "SortOrder": "236",
         "Unlockable": "False"
       },
       {
-        "Name": "(804) Godzilla_Top",
-        "SortOrder": "90",
+        "Name": "(1516) native_top",
+        "SortOrder": "237",
         "Unlockable": "False"
       },
       {
-        "Name": "(813) mongolian_fighting",
-        "SortOrder": "91",
+        "Name": "(1525) navy_coat",
+        "SortOrder": "238",
         "Unlockable": "False"
       },
       {
-        "Name": "(743) tweed_jacket",
-        "SortOrder": "79",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1558) RideStreetSpirit",
+        "Name": "(1533) chaulkywhite_coatshirtvest",
         "SortOrder": "239",
         "Unlockable": "False"
       },
       {
+        "Name": "(1534) chaulkywhite_coatshirtvest",
+        "SortOrder": "240",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1535) chaulkywhite_coatshirtvest",
+        "SortOrder": "241",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1536) chaulkywhite_coatshirtvest",
+        "SortOrder": "242",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1537) chaulkywhite_coatshirtvest",
+        "SortOrder": "243",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1538) chaulkywhite_coatshirtvest",
+        "SortOrder": "244",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1540) chaulkywhite_coatshirtvest",
+        "SortOrder": "245",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1541) chaulkywhite_coatshirtvest",
+        "SortOrder": "246",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1543) chaulkywhite_coat",
+        "SortOrder": "247",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1544) chaulkywhite_coat",
+        "SortOrder": "248",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1545) chaulkywhite_coat",
+        "SortOrder": "249",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1546) train_01_coat",
+        "SortOrder": "250",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1547) train_02_coat",
+        "SortOrder": "251",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1548) train_04_coat",
+        "SortOrder": "252",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1549) train_03_coat",
+        "SortOrder": "253",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1550) train_05_coat",
+        "SortOrder": "254",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1552) RideDragon",
+        "SortOrder": "255",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1553) RideChicken",
+        "SortOrder": "256",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1555) RidePig",
+        "SortOrder": "257",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1482) Reflective_Jacket",
+        "SortOrder": "232",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1480) rain_coat",
+        "SortOrder": "231",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1479) tinyfox_hoodie",
+        "SortOrder": "230",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1478) navy_coat",
+        "SortOrder": "229",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1291) Boardwalk_Empire_Overcoat",
+        "SortOrder": "203",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1292) Boardwalk_Empire_Overcoat",
+        "SortOrder": "204",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1293) Boardwalk_Empire_Overcoat",
+        "SortOrder": "205",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1296) fur_collar_coat",
+        "SortOrder": "206",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1338) glitchfashionCoat",
+        "SortOrder": "207",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1339) glitchfashionCoat",
+        "SortOrder": "208",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1355) star_hoodie",
+        "SortOrder": "209",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1356) elizabethan_coat",
+        "SortOrder": "210",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1360) torero_top",
+        "SortOrder": "211",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1367) elizabethan_robe",
+        "SortOrder": "212",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1377) open_cycle_hoodie",
+        "SortOrder": "213",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1384) man_hoodie",
+        "SortOrder": "214",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(982) elizabethan_robe",
+        "SortOrder": "144",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1400) plaid_coat",
+        "SortOrder": "215",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1412) GlitchamaphoneChickenTop",
+        "SortOrder": "217",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1413) GlitchamaphonePigTop",
+        "SortOrder": "218",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1414) GlitchamaphoneFoxTop",
+        "SortOrder": "219",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1415) GlitchamaphoneSlothTop",
+        "SortOrder": "220",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1416) GlitchamaphoneButterflyTop",
+        "SortOrder": "221",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1431) kissballoon_hoodie",
+        "SortOrder": "222",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1432) elizabethan_coat",
+        "SortOrder": "223",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1437) jacket_with_vest",
+        "SortOrder": "224",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1439) bell_hoodie",
+        "SortOrder": "225",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1444) garden_gnome_top",
+        "SortOrder": "226",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1445) Fisherman_vest",
+        "SortOrder": "227",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1476) glitter_jacket",
+        "SortOrder": "228",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1410) elizabethan_robe",
+        "SortOrder": "216",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1556) RideBurgerCar",
+        "SortOrder": "258",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(981) elizabethan_robe",
+        "SortOrder": "143",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(968) elizabethan_coat",
+        "SortOrder": "141",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(482) tuxedo_and_bowtie",
+        "SortOrder": "57",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(483) plaid_coat",
+        "SortOrder": "58",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(487) spriggan_zille_friendly",
+        "SortOrder": "59",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(489) pea_coat",
+        "SortOrder": "60",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(497) plain_hoodie",
+        "SortOrder": "61",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(498) plaid_coat",
+        "SortOrder": "62",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(499) flower_hoodie",
+        "SortOrder": "63",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(500) flower_hoodie",
+        "SortOrder": "64",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(501) flower_hoodie",
+        "SortOrder": "65",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(510) MJ_Jacket",
+        "SortOrder": "66",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(560) baby_doll_coat",
+        "SortOrder": "67",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(587) pea_coat",
+        "SortOrder": "68",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(588) plaid_coat",
+        "SortOrder": "69",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(591) pea_coat",
+        "SortOrder": "70",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(592) Skywalker_Coat",
+        "SortOrder": "71",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(593) tweed_jacket",
+        "SortOrder": "72",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(594) bunny_suit_coat",
+        "SortOrder": "73",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(598) bunny_suit_coat",
+        "SortOrder": "74",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(599) fuzzy_jacket_with_scarf",
+        "SortOrder": "75",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(610) fuzzy_jacket_with_scarf",
+        "SortOrder": "76",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(611) fuzzy_jacket_with_scarf",
+        "SortOrder": "77",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(615) man_hoodie",
+        "SortOrder": "78",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(617) travolta_jacket",
+        "SortOrder": "79",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(619) cosma_coat",
+        "SortOrder": "80",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(620) long_poncho_coat",
+        "SortOrder": "81",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(481) plain_hoodie",
+        "SortOrder": "56",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(625) the_burka",
+        "SortOrder": "82",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(480) pirate_coat",
+        "SortOrder": "55",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(478) random_print_hoodie",
+        "SortOrder": "53",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(202) navy_coat",
+        "SortOrder": "28",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(212) navy_coat",
+        "SortOrder": "29",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(288) navy_coat",
+        "SortOrder": "30",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(289) navy_coat",
+        "SortOrder": "31",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(290) navy_coat",
+        "SortOrder": "32",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(315) rain_coat",
+        "SortOrder": "33",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(393) cardboard_robot_top",
+        "SortOrder": "34",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(396) flower_hoodie",
+        "SortOrder": "35",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(397) cryingface_hoodie",
+        "SortOrder": "36",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(398) Fur_lined_Coat",
+        "SortOrder": "37",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(434) tinyfox_hoodie",
+        "SortOrder": "38",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(437) rainingtongue_hoodie",
+        "SortOrder": "39",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(438) fur_collar_coat",
+        "SortOrder": "40",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(439) random_print_hoodie",
+        "SortOrder": "41",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(441) open_cycle_hoodie",
+        "SortOrder": "42",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(444) chicken_suit_top",
+        "SortOrder": "43",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(445) france_coat",
+        "SortOrder": "44",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(446) bell_hoodie",
+        "SortOrder": "45",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(447) cloudy_hoodie",
+        "SortOrder": "46",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(448) kissballoon_hoodie",
+        "SortOrder": "47",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(450) Skywalker_Coat",
+        "SortOrder": "48",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(465) tweed_jacket",
+        "SortOrder": "49",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(470) chicken_suit_top",
+        "SortOrder": "50",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(475) nevermore_guy_top",
+        "SortOrder": "51",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(477) MJ_Jacket",
+        "SortOrder": "52",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(479) chef_coat",
+        "SortOrder": "54",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(634) star_hoodie",
+        "SortOrder": "83",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(636) native_top",
+        "SortOrder": "84",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(655) native_top",
+        "SortOrder": "85",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(832) Mini_dino_top",
+        "SortOrder": "116",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(836) military_coat",
+        "SortOrder": "117",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(843) unicorn_top",
+        "SortOrder": "118",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(847) Mini_dino_top",
+        "SortOrder": "119",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(848) military_coat",
+        "SortOrder": "120",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(851) unicorn_top",
+        "SortOrder": "121",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(854) Mini_dino_top",
+        "SortOrder": "122",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(860) military_coat",
+        "SortOrder": "123",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(864) military_coat",
+        "SortOrder": "124",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(873) gorilla_coat",
+        "SortOrder": "125",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(876) gorilla_coat",
+        "SortOrder": "126",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(877) gorilla_coat",
+        "SortOrder": "127",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(878) gorilla_coat",
+        "SortOrder": "128",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(889) sherwani_top",
+        "SortOrder": "129",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(892) torero_top",
+        "SortOrder": "130",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(909) sherwani_top",
+        "SortOrder": "131",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(910) sherwani_top",
+        "SortOrder": "132",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(942) torero_top",
+        "SortOrder": "133",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(943) torero_top",
+        "SortOrder": "134",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(944) torero_top",
+        "SortOrder": "135",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(957) plain_robe",
+        "SortOrder": "136",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(958) plain_robe",
+        "SortOrder": "137",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(959) plain_robe",
+        "SortOrder": "138",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(964) hunting_jacket",
+        "SortOrder": "139",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(967) sherwani_top",
+        "SortOrder": "140",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(830) Mini_dino_top",
+        "SortOrder": "115",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(827) cosma_coat",
+        "SortOrder": "114",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(826) cosma_coat",
+        "SortOrder": "113",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(819) mongolian_fighting",
+        "SortOrder": "112",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(657) native_top",
+        "SortOrder": "86",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(666) the_burka",
+        "SortOrder": "87",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(675) long_poncho_coat",
+        "SortOrder": "88",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(678) armor_suit_top",
+        "SortOrder": "89",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(688) armor_suit_top",
+        "SortOrder": "90",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(698) plain_cardigan",
+        "SortOrder": "91",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(699) the_burka",
+        "SortOrder": "92",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(703) straight_jacket",
+        "SortOrder": "93",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(717) hot_dog_suit",
+        "SortOrder": "94",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(718) armor_suit_top",
+        "SortOrder": "95",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(721) maki_costume",
+        "SortOrder": "96",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(724) japadog",
+        "SortOrder": "97",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(980) elven_boy_top",
+        "SortOrder": "142",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(726) nigiri_ebi_costume",
+        "SortOrder": "98",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(758) lab_coat",
+        "SortOrder": "100",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(769) tweed_jacket",
+        "SortOrder": "101",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(774) Godzilla_Top",
+        "SortOrder": "102",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(775) tweed_jacket",
+        "SortOrder": "103",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(778) Godzilla_Top",
+        "SortOrder": "104",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(783) Godzilla_Top",
+        "SortOrder": "105",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(787) gorilla_coat",
+        "SortOrder": "106",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(792) mongolian_fighting",
+        "SortOrder": "107",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(795) unicorn_top",
+        "SortOrder": "108",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(802) lab_coat",
+        "SortOrder": "109",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(804) Godzilla_Top",
+        "SortOrder": "110",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(813) mongolian_fighting",
+        "SortOrder": "111",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(743) tweed_jacket",
+        "SortOrder": "99",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1558) RideStreetSpirit",
+        "SortOrder": "259",
+        "Unlockable": "False"
+      },
+      {
         "Name": "FA_Yellow",
-        "SortOrder": "0",
+        "SortOrder": "20",
         "Unlockable": "False"
       },
       {
         "Name": "FS_Blue",
-        "SortOrder": "1",
+        "SortOrder": "21",
         "Unlockable": "False"
       },
       {
         "Name": "FS_Green",
-        "SortOrder": "2",
+        "SortOrder": "22",
         "Unlockable": "False"
       },
       {
         "Name": "FS_Magenta",
-        "SortOrder": "3",
+        "SortOrder": "23",
         "Unlockable": "False"
       },
       {
         "Name": "FS_Orange",
-        "SortOrder": "4",
+        "SortOrder": "24",
         "Unlockable": "False"
       },
       {
         "Name": "Robe",
-        "SortOrder": "5",
+        "SortOrder": "25",
         "Unlockable": "False"
       },
       {
         "Name": "Robe_Hooded",
+        "SortOrder": "26",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "Innertube_Blue",
+        "SortOrder": "0",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "Innertube_Gold",
+        "SortOrder": "1",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "Innertube_Gray",
+        "SortOrder": "2",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "Innertube_Green",
+        "SortOrder": "3",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "Innertube_Orange",
+        "SortOrder": "4",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "Innertube_Pink",
+        "SortOrder": "5",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "Innertube_Purple",
         "SortOrder": "6",
         "Unlockable": "False"
-      }
+      },
+	  {
+        "Name": "Innertube_Red",
+        "SortOrder": "7",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "Innertube_SeaGreen",
+        "SortOrder": "8",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "Innertube_Yellow",
+        "SortOrder": "9",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "OctoJacket_Blue",
+        "SortOrder": "10",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "OctoJacket_Gold",
+        "SortOrder": "11",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "OctoJacket_Gray",
+        "SortOrder": "12",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "OctoJacket_Green",
+        "SortOrder": "13",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "OctoJacket_Orange",
+        "SortOrder": "14",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "OctoJacket_Pink",
+        "SortOrder": "15",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "OctoJacket_Purple",
+        "SortOrder": "16",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "OctoJacket_Red",
+        "SortOrder": "17",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "OctoJacket_SeaGreen",
+        "SortOrder": "18",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "OctoJacket_Yellow",
+        "SortOrder": "19",
+        "Unlockable": "False"
+      },
     ]
   },
   {
@@ -8797,847 +8947,897 @@
     "AvatarItems": [
       {
         "Name": "(105) campers",
-        "SortOrder": "0",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(866) cowboy_boots_with_spurs",
-        "SortOrder": "106",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(871) pumps_with_heels",
-        "SortOrder": "107",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(882) khussa",
-        "SortOrder": "108",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(883) elizabethan_guy_shoes",
-        "SortOrder": "109",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(884) elizabethan_guy_shoes",
-        "SortOrder": "110",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(894) torero_shoes",
-        "SortOrder": "111",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(907) clogs",
-        "SortOrder": "112",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(821) cowboy_boots",
-        "SortOrder": "105",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(908) clogs",
-        "SortOrder": "113",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(913) converse",
-        "SortOrder": "115",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(934) sandals_with_heels",
-        "SortOrder": "116",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(935) sandals_with_heels",
-        "SortOrder": "117",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(939) pumps_with_heels",
-        "SortOrder": "118",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(940) converse",
-        "SortOrder": "119",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(954) torero_shoes",
-        "SortOrder": "120",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(969) torero_shoes",
-        "SortOrder": "121",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(911) clogs",
-        "SortOrder": "114",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(820) cowboy_boots_with_spurs",
-        "SortOrder": "104",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(814) strappered_shoes",
-        "SortOrder": "103",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(812) strappered_shoes",
-        "SortOrder": "102",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(659) striped_toe_socks",
-        "SortOrder": "85",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(670) ballet_shoes",
-        "SortOrder": "86",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(676) geta",
-        "SortOrder": "87",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(683) catwoman_shoes",
-        "SortOrder": "88",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(687) catwoman_shoes",
-        "SortOrder": "89",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(700) fairy_shoes",
-        "SortOrder": "90",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(704) cross_stitch_shoes",
-        "SortOrder": "91",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(712) bucked_shoes",
-        "SortOrder": "92",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(713) bucked_shoes",
-        "SortOrder": "93",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(763) french_maid_boots",
-        "SortOrder": "94",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(765) chelsea_boots",
-        "SortOrder": "95",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(766) chelsea_boots",
-        "SortOrder": "96",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(767) mens_laceup_shoes",
-        "SortOrder": "97",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(768) mens_laceup_shoes",
-        "SortOrder": "98",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(776) mens_laceup_shoes",
-        "SortOrder": "99",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(786) fairy_shoes",
-        "SortOrder": "100",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(797) mens_laceup_shoes",
-        "SortOrder": "101",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1007) steeltoe_boots",
-        "SortOrder": "122",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1008) khussa",
-        "SortOrder": "123",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1020) steeltoe_boots",
-        "SortOrder": "124",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1042) khussa",
-        "SortOrder": "125",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1268) women_pirate_boot",
-        "SortOrder": "147",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1312) top_fur_boots",
-        "SortOrder": "148",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1326) nevermore_boots",
-        "SortOrder": "149",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1334) lady_highheel_bowtie",
-        "SortOrder": "150",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1335) lady_highheel",
-        "SortOrder": "151",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1343) glitchfashionShoes",
-        "SortOrder": "152",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1347) square_toe_converse",
-        "SortOrder": "153",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1372) converse",
-        "SortOrder": "154",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1373) women_pirate_boot",
-        "SortOrder": "155",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1374) square_toe_converse",
-        "SortOrder": "156",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1375) square_toe_converse",
-        "SortOrder": "157",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1381) bunny_slippers",
-        "SortOrder": "158",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1389) rain_boots",
-        "SortOrder": "159",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1465) lady_highheel_bowtie",
-        "SortOrder": "160",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1466) rain_boots",
-        "SortOrder": "161",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1491) rain_boots",
-        "SortOrder": "162",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1518) single_lace_sneakers",
-        "SortOrder": "163",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1256) steampunk_guys_boots",
-        "SortOrder": "146",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(643) bucked_shoes",
-        "SortOrder": "84",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1255) steampunk_guys_boots",
-        "SortOrder": "145",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1253) steampunk_lady_boots",
-        "SortOrder": "143",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1056) elizabethan_guy_shoes",
-        "SortOrder": "126",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1057) khussa",
-        "SortOrder": "127",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1147) man_pirate_boots",
-        "SortOrder": "128",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1148) women_pirate_boot",
-        "SortOrder": "129",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1149) man_pirate_boots",
-        "SortOrder": "130",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1150) man_pirate_boots",
-        "SortOrder": "131",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1151) women_pirate_boot",
-        "SortOrder": "132",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1152) women_pirate_boot",
-        "SortOrder": "133",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1161) women_pirate_boot",
-        "SortOrder": "134",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1166) women_pirate_boot",
-        "SortOrder": "135",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1167) women_pirate_boot",
-        "SortOrder": "136",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1168) women_pirate_boot",
-        "SortOrder": "137",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1182) laborer_boots",
-        "SortOrder": "138",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1216) Men_DressShoes",
-        "SortOrder": "139",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1217) Men_DressShoes",
-        "SortOrder": "140",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1251) steampunk_lady_boots",
-        "SortOrder": "141",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1252) steampunk_lady_boots",
-        "SortOrder": "142",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1254) steampunk_guys_boots",
-        "SortOrder": "144",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(640) rain_boots",
-        "SortOrder": "83",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(637) strappered_shoes",
-        "SortOrder": "82",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(632) punk_boots",
-        "SortOrder": "81",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(227) cross_strap_sandals",
-        "SortOrder": "22",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(228) cross_strap_sandals",
-        "SortOrder": "23",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(229) cross_strap_sandals",
-        "SortOrder": "24",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(232) converse",
-        "SortOrder": "25",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(237) havaianas",
-        "SortOrder": "26",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(244) nike_strap_sandals",
-        "SortOrder": "27",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(251) converse",
-        "SortOrder": "28",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(260) square_toe_converse",
-        "SortOrder": "29",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(261) square_toe_converse",
-        "SortOrder": "30",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(262) square_toe_converse",
-        "SortOrder": "31",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(269) converse",
-        "SortOrder": "32",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(270) converse",
-        "SortOrder": "33",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(271) converse",
-        "SortOrder": "34",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(285) converse",
-        "SortOrder": "35",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(319) wide_strap_sandals",
-        "SortOrder": "36",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(320) wide_strap_sandals",
-        "SortOrder": "37",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(328) wide_strap_sandals",
-        "SortOrder": "38",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(224) campers",
-        "SortOrder": "21",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(329) mountain_stripe_sneakers",
-        "SortOrder": "39",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(218) mountain_stripe_sneakers",
-        "SortOrder": "20",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(210) square_toe_converse",
-        "SortOrder": "18",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(106) cross_strap_sandals",
-        "SortOrder": "1",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(107) havaianas",
-        "SortOrder": "2",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(108) nike_strap_sandals",
-        "SortOrder": "3",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(109) rose_sandals",
-        "SortOrder": "4",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(110) single_lace_sneakers",
-        "SortOrder": "5",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(111) swoosh_sneakers",
-        "SortOrder": "6",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(112) wide_strap_sandals",
-        "SortOrder": "7",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(157) single_lace_sneakers",
-        "SortOrder": "8",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(167) campers",
-        "SortOrder": "9",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(168) single_lace_sneakers",
         "SortOrder": "10",
         "Unlockable": "False"
       },
       {
-        "Name": "(169) single_lace_sneakers",
-        "SortOrder": "11",
+        "Name": "(866) cowboy_boots_with_spurs",
+        "SortOrder": "116",
         "Unlockable": "False"
       },
       {
-        "Name": "(174) nike_strap_sandals",
-        "SortOrder": "12",
+        "Name": "(871) pumps_with_heels",
+        "SortOrder": "117",
         "Unlockable": "False"
       },
       {
-        "Name": "(178) rose_sandals",
-        "SortOrder": "13",
+        "Name": "(882) khussa",
+        "SortOrder": "118",
         "Unlockable": "False"
       },
       {
-        "Name": "(182) havaianas",
-        "SortOrder": "14",
+        "Name": "(883) elizabethan_guy_shoes",
+        "SortOrder": "119",
         "Unlockable": "False"
       },
       {
-        "Name": "(186) swoosh_sneakers",
-        "SortOrder": "15",
+        "Name": "(884) elizabethan_guy_shoes",
+        "SortOrder": "120",
         "Unlockable": "False"
       },
       {
-        "Name": "(199) mountain_stripe_sneakers",
-        "SortOrder": "16",
+        "Name": "(894) torero_shoes",
+        "SortOrder": "121",
         "Unlockable": "False"
       },
       {
-        "Name": "(200) square_toe_converse",
-        "SortOrder": "17",
+        "Name": "(907) clogs",
+        "SortOrder": "122",
         "Unlockable": "False"
       },
       {
-        "Name": "(211) square_toe_converse",
-        "SortOrder": "19",
+        "Name": "(821) cowboy_boots",
+        "SortOrder": "115",
         "Unlockable": "False"
       },
       {
-        "Name": "(1539) steampunk_guys_boots",
+        "Name": "(908) clogs",
+        "SortOrder": "123",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(913) converse",
+        "SortOrder": "125",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(934) sandals_with_heels",
+        "SortOrder": "126",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(935) sandals_with_heels",
+        "SortOrder": "127",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(939) pumps_with_heels",
+        "SortOrder": "128",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(940) converse",
+        "SortOrder": "129",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(954) torero_shoes",
+        "SortOrder": "130",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(969) torero_shoes",
+        "SortOrder": "131",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(911) clogs",
+        "SortOrder": "124",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(820) cowboy_boots_with_spurs",
+        "SortOrder": "114",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(814) strappered_shoes",
+        "SortOrder": "113",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(812) strappered_shoes",
+        "SortOrder": "112",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(659) striped_toe_socks",
+        "SortOrder": "95",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(670) ballet_shoes",
+        "SortOrder": "96",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(676) geta",
+        "SortOrder": "97",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(683) catwoman_shoes",
+        "SortOrder": "98",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(687) catwoman_shoes",
+        "SortOrder": "99",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(700) fairy_shoes",
+        "SortOrder": "100",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(704) cross_stitch_shoes",
+        "SortOrder": "101",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(712) bucked_shoes",
+        "SortOrder": "102",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(713) bucked_shoes",
+        "SortOrder": "103",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(763) french_maid_boots",
+        "SortOrder": "104",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(765) chelsea_boots",
+        "SortOrder": "105",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(766) chelsea_boots",
+        "SortOrder": "106",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(767) mens_laceup_shoes",
+        "SortOrder": "107",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(768) mens_laceup_shoes",
+        "SortOrder": "108",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(776) mens_laceup_shoes",
+        "SortOrder": "109",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(786) fairy_shoes",
+        "SortOrder": "110",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(797) mens_laceup_shoes",
+        "SortOrder": "111",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1007) steeltoe_boots",
+        "SortOrder": "132",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1008) khussa",
+        "SortOrder": "133",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1020) steeltoe_boots",
+        "SortOrder": "134",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1042) khussa",
+        "SortOrder": "135",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1268) women_pirate_boot",
+        "SortOrder": "157",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1312) top_fur_boots",
+        "SortOrder": "158",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1326) nevermore_boots",
+        "SortOrder": "159",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1334) lady_highheel_bowtie",
+        "SortOrder": "160",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1335) lady_highheel",
+        "SortOrder": "161",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1343) glitchfashionShoes",
+        "SortOrder": "162",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1347) square_toe_converse",
+        "SortOrder": "163",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1372) converse",
         "SortOrder": "164",
         "Unlockable": "False"
       },
       {
-        "Name": "(334) rose_sandals",
-        "SortOrder": "40",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(338) swoosh_sneakers",
-        "SortOrder": "42",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(522) real_chicken_feet",
-        "SortOrder": "64",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(537) Skywalker_Boots",
-        "SortOrder": "65",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(538) lady_highheel",
-        "SortOrder": "66",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(540) lady_highheel_bowtie",
-        "SortOrder": "67",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(541) snow_boots",
-        "SortOrder": "68",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(585) rain_boots",
-        "SortOrder": "69",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(590) ballet_shoes",
-        "SortOrder": "70",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(600) nevermore_boots",
-        "SortOrder": "71",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(601) crocs_with_socks",
-        "SortOrder": "72",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(602) fairy_shoes",
-        "SortOrder": "73",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(603) fairy_shoes",
-        "SortOrder": "74",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(604) daisy_girl_shoes",
-        "SortOrder": "75",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(605) daisy_girl_shoes",
-        "SortOrder": "76",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(606) leopard_boots",
-        "SortOrder": "77",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(607) daisy_girl_shoes",
-        "SortOrder": "78",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(623) striped_toe_socks",
-        "SortOrder": "79",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(630) leopard_boots",
-        "SortOrder": "80",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(521) ballet_shoes",
-        "SortOrder": "63",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(337) swoosh_sneakers",
-        "SortOrder": "41",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(520) bear_feet",
-        "SortOrder": "62",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(518) elephant_boots",
-        "SortOrder": "60",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(385) glitchfashionShoes",
-        "SortOrder": "43",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(395) ball",
-        "SortOrder": "44",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(428) leather_shoes",
-        "SortOrder": "45",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(429) crocs_with_socks",
-        "SortOrder": "46",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(431) Nevermore_Shoes",
-        "SortOrder": "47",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(460) top_fur_boots",
-        "SortOrder": "48",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(461) laborer_boots",
-        "SortOrder": "49",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(462) top_fur_boots",
-        "SortOrder": "50",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(463) rain_boots",
-        "SortOrder": "51",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(473) bunny_slippers",
-        "SortOrder": "52",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(485) chicken_feet",
-        "SortOrder": "53",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(491) bunny_slippers",
-        "SortOrder": "54",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(492) bunny_slippers",
-        "SortOrder": "55",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(493) bunny_slippers",
-        "SortOrder": "56",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(494) rain_boots",
-        "SortOrder": "57",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(495) rain_boots",
-        "SortOrder": "58",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(496) rain_boots",
-        "SortOrder": "59",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(519) cute_skull_boots",
-        "SortOrder": "61",
-        "Unlockable": "False"
-      },
-      {
-        "Name": "(1542) glitchfashionShoes",
+        "Name": "(1373) women_pirate_boot",
         "SortOrder": "165",
         "Unlockable": "False"
       },
       {
-        "Name": "(c1) converse",
+        "Name": "(1374) square_toe_converse",
         "SortOrder": "166",
         "Unlockable": "False"
       },
       {
-        "Name": "(c2) Mens_DressShoes",
+        "Name": "(1375) square_toe_converse",
         "SortOrder": "167",
         "Unlockable": "False"
       },
       {
-        "Name": "(c3) pumps_with_heels",
+        "Name": "(1381) bunny_slippers",
         "SortOrder": "168",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1389) rain_boots",
+        "SortOrder": "169",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1465) lady_highheel_bowtie",
+        "SortOrder": "170",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1466) rain_boots",
+        "SortOrder": "171",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1491) rain_boots",
+        "SortOrder": "172",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1518) single_lace_sneakers",
+        "SortOrder": "173",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1256) steampunk_guys_boots",
+        "SortOrder": "156",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(643) bucked_shoes",
+        "SortOrder": "94",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1255) steampunk_guys_boots",
+        "SortOrder": "155",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1253) steampunk_lady_boots",
+        "SortOrder": "153",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1056) elizabethan_guy_shoes",
+        "SortOrder": "136",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1057) khussa",
+        "SortOrder": "137",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1147) man_pirate_boots",
+        "SortOrder": "138",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1148) women_pirate_boot",
+        "SortOrder": "139",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1149) man_pirate_boots",
+        "SortOrder": "140",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1150) man_pirate_boots",
+        "SortOrder": "141",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1151) women_pirate_boot",
+        "SortOrder": "142",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1152) women_pirate_boot",
+        "SortOrder": "143",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1161) women_pirate_boot",
+        "SortOrder": "144",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1166) women_pirate_boot",
+        "SortOrder": "145",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1167) women_pirate_boot",
+        "SortOrder": "146",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1168) women_pirate_boot",
+        "SortOrder": "147",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1182) laborer_boots",
+        "SortOrder": "148",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1216) Men_DressShoes",
+        "SortOrder": "149",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1217) Men_DressShoes",
+        "SortOrder": "150",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1251) steampunk_lady_boots",
+        "SortOrder": "151",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1252) steampunk_lady_boots",
+        "SortOrder": "152",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1254) steampunk_guys_boots",
+        "SortOrder": "154",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(640) rain_boots",
+        "SortOrder": "93",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(637) strappered_shoes",
+        "SortOrder": "92",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(632) punk_boots",
+        "SortOrder": "91",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(227) cross_strap_sandals",
+        "SortOrder": "32",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(228) cross_strap_sandals",
+        "SortOrder": "33",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(229) cross_strap_sandals",
+        "SortOrder": "34",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(232) converse",
+        "SortOrder": "35",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(237) havaianas",
+        "SortOrder": "36",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(244) nike_strap_sandals",
+        "SortOrder": "37",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(251) converse",
+        "SortOrder": "38",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(260) square_toe_converse",
+        "SortOrder": "39",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(261) square_toe_converse",
+        "SortOrder": "40",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(262) square_toe_converse",
+        "SortOrder": "41",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(269) converse",
+        "SortOrder": "42",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(270) converse",
+        "SortOrder": "43",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(271) converse",
+        "SortOrder": "44",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(285) converse",
+        "SortOrder": "45",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(319) wide_strap_sandals",
+        "SortOrder": "46",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(320) wide_strap_sandals",
+        "SortOrder": "47",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(328) wide_strap_sandals",
+        "SortOrder": "48",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(224) campers",
+        "SortOrder": "31",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(329) mountain_stripe_sneakers",
+        "SortOrder": "49",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(218) mountain_stripe_sneakers",
+        "SortOrder": "30",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(210) square_toe_converse",
+        "SortOrder": "28",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(106) cross_strap_sandals",
+        "SortOrder": "11",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(107) havaianas",
+        "SortOrder": "12",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(108) nike_strap_sandals",
+        "SortOrder": "13",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(109) rose_sandals",
+        "SortOrder": "14",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(110) single_lace_sneakers",
+        "SortOrder": "15",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(111) swoosh_sneakers",
+        "SortOrder": "16",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(112) wide_strap_sandals",
+        "SortOrder": "17",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(157) single_lace_sneakers",
+        "SortOrder": "18",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(167) campers",
+        "SortOrder": "19",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(168) single_lace_sneakers",
+        "SortOrder": "20",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(169) single_lace_sneakers",
+        "SortOrder": "21",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(174) nike_strap_sandals",
+        "SortOrder": "22",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(178) rose_sandals",
+        "SortOrder": "23",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(182) havaianas",
+        "SortOrder": "24",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(186) swoosh_sneakers",
+        "SortOrder": "25",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(199) mountain_stripe_sneakers",
+        "SortOrder": "26",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(200) square_toe_converse",
+        "SortOrder": "27",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(211) square_toe_converse",
+        "SortOrder": "29",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1539) steampunk_guys_boots",
+        "SortOrder": "174",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(334) rose_sandals",
+        "SortOrder": "50",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(338) swoosh_sneakers",
+        "SortOrder": "52",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(522) real_chicken_feet",
+        "SortOrder": "74",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(537) Skywalker_Boots",
+        "SortOrder": "75",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(538) lady_highheel",
+        "SortOrder": "76",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(540) lady_highheel_bowtie",
+        "SortOrder": "77",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(541) snow_boots",
+        "SortOrder": "78",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(585) rain_boots",
+        "SortOrder": "79",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(590) ballet_shoes",
+        "SortOrder": "80",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(600) nevermore_boots",
+        "SortOrder": "81",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(601) crocs_with_socks",
+        "SortOrder": "82",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(602) fairy_shoes",
+        "SortOrder": "83",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(603) fairy_shoes",
+        "SortOrder": "84",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(604) daisy_girl_shoes",
+        "SortOrder": "85",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(605) daisy_girl_shoes",
+        "SortOrder": "86",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(606) leopard_boots",
+        "SortOrder": "87",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(607) daisy_girl_shoes",
+        "SortOrder": "88",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(623) striped_toe_socks",
+        "SortOrder": "89",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(630) leopard_boots",
+        "SortOrder": "90",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(521) ballet_shoes",
+        "SortOrder": "73",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(337) swoosh_sneakers",
+        "SortOrder": "51",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(520) bear_feet",
+        "SortOrder": "72",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(518) elephant_boots",
+        "SortOrder": "70",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(385) glitchfashionShoes",
+        "SortOrder": "53",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(395) ball",
+        "SortOrder": "54",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(428) leather_shoes",
+        "SortOrder": "55",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(429) crocs_with_socks",
+        "SortOrder": "56",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(431) Nevermore_Shoes",
+        "SortOrder": "57",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(460) top_fur_boots",
+        "SortOrder": "58",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(461) laborer_boots",
+        "SortOrder": "59",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(462) top_fur_boots",
+        "SortOrder": "60",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(463) rain_boots",
+        "SortOrder": "61",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(473) bunny_slippers",
+        "SortOrder": "62",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(485) chicken_feet",
+        "SortOrder": "63",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(491) bunny_slippers",
+        "SortOrder": "64",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(492) bunny_slippers",
+        "SortOrder": "65",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(493) bunny_slippers",
+        "SortOrder": "66",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(494) rain_boots",
+        "SortOrder": "67",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(495) rain_boots",
+        "SortOrder": "68",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(496) rain_boots",
+        "SortOrder": "69",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(519) cute_skull_boots",
+        "SortOrder": "71",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(1542) glitchfashionShoes",
+        "SortOrder": "175",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(c1) converse",
+        "SortOrder": "176",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(c2) Mens_DressShoes",
+        "SortOrder": "177",
+        "Unlockable": "False"
+      },
+      {
+        "Name": "(c3) pumps_with_heels",
+        "SortOrder": "178",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "Flippers_Blue",
+        "SortOrder": "0",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "Flippers_Gold",
+        "SortOrder": "1",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "Flippers_Gray",
+        "SortOrder": "2",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "Flippers_Green",
+        "SortOrder": "3",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "Flippers_Orange",
+        "SortOrder": "4",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "Flippers_Pink",
+        "SortOrder": "5",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "Flippers_Purple",
+        "SortOrder": "6",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "Flippers_Red",
+        "SortOrder": "7",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "Flippers_SeaGreen",
+        "SortOrder": "8",
+        "Unlockable": "False"
+      },
+	  {
+        "Name": "Flippers_Yellow",
+        "SortOrder": "9",
         "Unlockable": "False"
       }
     ]
